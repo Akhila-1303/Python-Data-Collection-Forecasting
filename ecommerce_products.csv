@@ -1,0 +1,1201 @@
+Date,Product_ID,Product_Name,Category,Base_Price,Discounted_Price,Units_Sold,Revenue,Discount (%),Rating
+2023-01-01,P1001,Wireless Headphones,Electronics,59.99,59.99,58,3479.42,0,4.6
+2023-01-01,P1002,Bluetooth Speaker,Electronics,45.99,43.69,92,4019.48,5,3.7
+2023-01-01,P1003,Smartwatch,Electronics,149.99,149.99,56,8399.44,0,4.4
+2023-01-01,P1004,Yoga Mat,Fitness,25.0,25.0,38,950.0,0,3.6
+2023-01-01,P1005,Resistance Bands,Fitness,19.99,19.99,89,1779.11,0,4.3
+2023-01-01,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,169,1865.76,15,3.8
+2023-01-01,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,180,5668.2,10,4.7
+2023-01-01,P1008,Notebook Set,Office & Stationery,10.99,10.44,31,323.64,5,4.5
+2023-01-01,P1009,Backpack,Fashion & Accessories,49.99,44.99,117,5263.83,10,3.7
+2023-01-01,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,116,10438.84,0,3.6
+2023-01-01,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,54,1092.96,10,4.8
+2023-01-01,P1012,Programming Book,Books & Learning,39.95,39.95,97,3875.15,0,4.6
+2023-01-02,P1001,Wireless Headphones,Electronics,59.99,59.99,167,10018.33,0,5.0
+2023-01-02,P1002,Bluetooth Speaker,Electronics,45.99,45.99,126,5794.74,0,4.3
+2023-01-02,P1003,Smartwatch,Electronics,149.99,142.49,122,17383.78,5,4.6
+2023-01-02,P1004,Yoga Mat,Fitness,25.0,23.75,41,973.75,5,4.7
+2023-01-02,P1005,Resistance Bands,Fitness,19.99,18.99,50,949.5,5,4.8
+2023-01-02,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,127,1484.63,10,4.2
+2023-01-02,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,123,4088.52,5,4.1
+2023-01-02,P1008,Notebook Set,Office & Stationery,10.99,9.89,83,820.87,10,4.6
+2023-01-02,P1009,Backpack,Fashion & Accessories,49.99,47.49,48,2279.52,5,4.3
+2023-01-02,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,92,7865.08,5,4.2
+2023-01-02,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,99,2115.63,5,4.5
+2023-01-02,P1012,Programming Book,Books & Learning,39.95,37.95,44,1669.8,5,4.7
+2023-01-03,P1001,Wireless Headphones,Electronics,59.99,50.99,110,5608.9,15,3.9
+2023-01-03,P1002,Bluetooth Speaker,Electronics,45.99,41.39,84,3476.76,10,3.8
+2023-01-03,P1003,Smartwatch,Electronics,149.99,127.49,157,20015.93,15,4.8
+2023-01-03,P1004,Yoga Mat,Fitness,25.0,23.75,147,3491.25,5,3.9
+2023-01-03,P1005,Resistance Bands,Fitness,19.99,17.99,93,1673.07,10,4.6
+2023-01-03,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,139,1534.56,15,4.0
+2023-01-03,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,65,1933.1,15,3.6
+2023-01-03,P1008,Notebook Set,Office & Stationery,10.99,10.99,42,461.58,0,3.7
+2023-01-03,P1009,Backpack,Fashion & Accessories,49.99,42.49,70,2974.3,15,4.4
+2023-01-03,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,128,9790.72,15,4.4
+2023-01-03,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,149,3015.76,10,5.0
+2023-01-03,P1012,Programming Book,Books & Learning,39.95,39.95,32,1278.4,0,4.5
+2023-01-04,P1001,Wireless Headphones,Electronics,59.99,53.99,167,9016.33,10,4.7
+2023-01-04,P1002,Bluetooth Speaker,Electronics,45.99,45.99,117,5380.83,0,3.9
+2023-01-04,P1003,Smartwatch,Electronics,149.99,127.49,70,8924.3,15,3.5
+2023-01-04,P1004,Yoga Mat,Fitness,25.0,23.75,97,2303.75,5,4.3
+2023-01-04,P1005,Resistance Bands,Fitness,19.99,17.99,57,1025.43,10,4.8
+2023-01-04,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,159,1962.06,5,3.7
+2023-01-04,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,71,2484.29,0,4.4
+2023-01-04,P1008,Notebook Set,Office & Stationery,10.99,10.99,155,1703.45,0,3.7
+2023-01-04,P1009,Backpack,Fashion & Accessories,49.99,44.99,122,5488.78,10,3.9
+2023-01-04,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,91,8189.09,0,3.6
+2023-01-04,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,154,3463.46,0,5.0
+2023-01-04,P1012,Programming Book,Books & Learning,39.95,37.95,166,6299.7,5,3.7
+2023-01-05,P1001,Wireless Headphones,Electronics,59.99,56.99,151,8605.49,5,3.9
+2023-01-05,P1002,Bluetooth Speaker,Electronics,45.99,43.69,138,6029.22,5,4.9
+2023-01-05,P1003,Smartwatch,Electronics,149.99,134.99,81,10934.19,10,4.1
+2023-01-05,P1004,Yoga Mat,Fitness,25.0,21.25,125,2656.25,15,4.8
+2023-01-05,P1005,Resistance Bands,Fitness,19.99,19.99,145,2898.55,0,3.9
+2023-01-05,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,46,537.74,10,3.5
+2023-01-05,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,171,5684.04,5,4.4
+2023-01-05,P1008,Notebook Set,Office & Stationery,10.99,10.99,31,340.69,0,4.6
+2023-01-05,P1009,Backpack,Fashion & Accessories,49.99,47.49,45,2137.05,5,3.6
+2023-01-05,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,38,3077.62,10,3.6
+2023-01-05,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,90,1821.6,10,4.5
+2023-01-05,P1012,Programming Book,Books & Learning,39.95,37.95,84,3187.8,5,4.6
+2023-01-06,P1001,Wireless Headphones,Electronics,59.99,50.99,176,8974.24,15,3.9
+2023-01-06,P1002,Bluetooth Speaker,Electronics,45.99,39.09,151,5902.59,15,3.8
+2023-01-06,P1003,Smartwatch,Electronics,149.99,127.49,54,6884.46,15,4.0
+2023-01-06,P1004,Yoga Mat,Fitness,25.0,21.25,135,2868.75,15,4.8
+2023-01-06,P1005,Resistance Bands,Fitness,19.99,19.99,43,859.57,0,3.6
+2023-01-06,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,116,1506.84,0,3.9
+2023-01-06,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,78,2319.72,15,3.7
+2023-01-06,P1008,Notebook Set,Office & Stationery,10.99,9.89,76,751.64,10,4.2
+2023-01-06,P1009,Backpack,Fashion & Accessories,49.99,42.49,49,2082.01,15,4.7
+2023-01-06,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,170,15298.3,0,3.6
+2023-01-06,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,168,3778.32,0,5.0
+2023-01-06,P1012,Programming Book,Books & Learning,39.95,37.95,90,3415.5,5,4.1
+2023-01-07,P1001,Wireless Headphones,Electronics,59.99,56.99,153,8719.47,5,4.8
+2023-01-07,P1002,Bluetooth Speaker,Electronics,45.99,43.69,45,1966.05,5,4.1
+2023-01-07,P1003,Smartwatch,Electronics,149.99,134.99,129,17413.71,10,4.9
+2023-01-07,P1004,Yoga Mat,Fitness,25.0,22.5,146,3285.0,10,4.1
+2023-01-07,P1005,Resistance Bands,Fitness,19.99,16.99,172,2922.28,15,3.7
+2023-01-07,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,105,1295.7,5,5.0
+2023-01-07,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,178,6228.22,0,4.6
+2023-01-07,P1008,Notebook Set,Office & Stationery,10.99,10.99,44,483.56,0,4.4
+2023-01-07,P1009,Backpack,Fashion & Accessories,49.99,47.49,158,7503.42,5,3.6
+2023-01-07,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,160,14398.4,0,4.8
+2023-01-07,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,47,1057.03,0,4.5
+2023-01-07,P1012,Programming Book,Books & Learning,39.95,33.96,90,3056.4,15,3.7
+2023-01-08,P1001,Wireless Headphones,Electronics,59.99,56.99,175,9973.25,5,4.4
+2023-01-08,P1002,Bluetooth Speaker,Electronics,45.99,45.99,40,1839.6,0,4.1
+2023-01-08,P1003,Smartwatch,Electronics,149.99,134.99,179,24163.21,10,4.9
+2023-01-08,P1004,Yoga Mat,Fitness,25.0,22.5,82,1845.0,10,3.9
+2023-01-08,P1005,Resistance Bands,Fitness,19.99,18.99,131,2487.69,5,4.5
+2023-01-08,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,106,1170.24,15,4.0
+2023-01-08,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,48,1679.52,0,4.2
+2023-01-08,P1008,Notebook Set,Office & Stationery,10.99,10.99,174,1912.26,0,3.6
+2023-01-08,P1009,Backpack,Fashion & Accessories,49.99,44.99,84,3779.16,10,3.7
+2023-01-08,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,119,10708.81,0,4.8
+2023-01-08,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,124,2509.76,10,3.7
+2023-01-08,P1012,Programming Book,Books & Learning,39.95,35.96,169,6077.24,10,4.4
+2023-01-09,P1001,Wireless Headphones,Electronics,59.99,59.99,165,9898.35,0,4.5
+2023-01-09,P1002,Bluetooth Speaker,Electronics,45.99,41.39,171,7077.69,10,4.9
+2023-01-09,P1003,Smartwatch,Electronics,149.99,142.49,56,7979.44,5,3.9
+2023-01-09,P1004,Yoga Mat,Fitness,25.0,23.75,57,1353.75,5,3.9
+2023-01-09,P1005,Resistance Bands,Fitness,19.99,17.99,83,1493.17,10,3.8
+2023-01-09,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,97,1070.88,15,3.9
+2023-01-09,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,43,1504.57,0,4.5
+2023-01-09,P1008,Notebook Set,Office & Stationery,10.99,10.99,100,1099.0,0,3.5
+2023-01-09,P1009,Backpack,Fashion & Accessories,49.99,44.99,63,2834.37,10,3.7
+2023-01-09,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,143,10938.07,15,4.3
+2023-01-09,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,58,1304.42,0,4.9
+2023-01-09,P1012,Programming Book,Books & Learning,39.95,39.95,68,2716.6,0,4.8
+2023-01-10,P1001,Wireless Headphones,Electronics,59.99,56.99,179,10201.21,5,4.1
+2023-01-10,P1002,Bluetooth Speaker,Electronics,45.99,41.39,40,1655.6,10,4.0
+2023-01-10,P1003,Smartwatch,Electronics,149.99,134.99,40,5399.6,10,3.8
+2023-01-10,P1004,Yoga Mat,Fitness,25.0,25.0,93,2325.0,0,4.0
+2023-01-10,P1005,Resistance Bands,Fitness,19.99,16.99,173,2939.27,15,5.0
+2023-01-10,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,69,851.46,5,4.8
+2023-01-10,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,75,2230.5,15,3.5
+2023-01-10,P1008,Notebook Set,Office & Stationery,10.99,9.34,115,1074.1,15,4.7
+2023-01-10,P1009,Backpack,Fashion & Accessories,49.99,44.99,93,4184.07,10,3.7
+2023-01-10,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,57,4359.93,15,4.8
+2023-01-10,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,150,3205.5,5,3.8
+2023-01-10,P1012,Programming Book,Books & Learning,39.95,35.96,147,5286.12,10,4.0
+2023-01-11,P1001,Wireless Headphones,Electronics,59.99,56.99,88,5015.12,5,3.5
+2023-01-11,P1002,Bluetooth Speaker,Electronics,45.99,39.09,79,3088.11,15,4.0
+2023-01-11,P1003,Smartwatch,Electronics,149.99,134.99,47,6344.53,10,4.0
+2023-01-11,P1004,Yoga Mat,Fitness,25.0,21.25,160,3400.0,15,4.5
+2023-01-11,P1005,Resistance Bands,Fitness,19.99,17.99,167,3004.33,10,4.9
+2023-01-11,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,59,689.71,10,3.8
+2023-01-11,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,97,3394.03,0,3.7
+2023-01-11,P1008,Notebook Set,Office & Stationery,10.99,9.89,141,1394.49,10,4.6
+2023-01-11,P1009,Backpack,Fashion & Accessories,49.99,42.49,110,4673.9,15,4.4
+2023-01-11,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,160,14398.4,0,4.1
+2023-01-11,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,177,3782.49,5,3.9
+2023-01-11,P1012,Programming Book,Books & Learning,39.95,39.95,141,5632.95,0,4.3
+2023-01-12,P1001,Wireless Headphones,Electronics,59.99,56.99,167,9517.33,5,4.0
+2023-01-12,P1002,Bluetooth Speaker,Electronics,45.99,41.39,47,1945.33,10,4.4
+2023-01-12,P1003,Smartwatch,Electronics,149.99,134.99,61,8234.39,10,4.3
+2023-01-12,P1004,Yoga Mat,Fitness,25.0,22.5,134,3015.0,10,4.1
+2023-01-12,P1005,Resistance Bands,Fitness,19.99,18.99,105,1993.95,5,3.8
+2023-01-12,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,127,1567.18,5,4.4
+2023-01-12,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,107,3182.18,15,4.3
+2023-01-12,P1008,Notebook Set,Office & Stationery,10.99,9.89,30,296.7,10,3.9
+2023-01-12,P1009,Backpack,Fashion & Accessories,49.99,44.99,140,6298.6,10,4.2
+2023-01-12,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,143,12225.07,5,4.3
+2023-01-12,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,73,1641.77,0,3.9
+2023-01-12,P1012,Programming Book,Books & Learning,39.95,39.95,115,4594.25,0,4.7
+2023-01-13,P1001,Wireless Headphones,Electronics,59.99,53.99,90,4859.1,10,3.8
+2023-01-13,P1002,Bluetooth Speaker,Electronics,45.99,43.69,80,3495.2,5,3.5
+2023-01-13,P1003,Smartwatch,Electronics,149.99,127.49,92,11729.08,15,4.4
+2023-01-13,P1004,Yoga Mat,Fitness,25.0,21.25,48,1020.0,15,4.1
+2023-01-13,P1005,Resistance Bands,Fitness,19.99,18.99,177,3361.23,5,4.6
+2023-01-13,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,128,1413.12,15,4.1
+2023-01-13,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,67,2344.33,0,4.8
+2023-01-13,P1008,Notebook Set,Office & Stationery,10.99,9.34,57,532.38,15,3.8
+2023-01-13,P1009,Backpack,Fashion & Accessories,49.99,42.49,162,6883.38,15,3.6
+2023-01-13,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,93,8369.07,0,4.2
+2023-01-13,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,148,2995.52,10,4.9
+2023-01-13,P1012,Programming Book,Books & Learning,39.95,33.96,143,4856.28,15,4.7
+2023-01-14,P1001,Wireless Headphones,Electronics,59.99,50.99,170,8668.3,15,4.8
+2023-01-14,P1002,Bluetooth Speaker,Electronics,45.99,39.09,151,5902.59,15,3.9
+2023-01-14,P1003,Smartwatch,Electronics,149.99,134.99,93,12554.07,10,4.6
+2023-01-14,P1004,Yoga Mat,Fitness,25.0,21.25,163,3463.75,15,4.4
+2023-01-14,P1005,Resistance Bands,Fitness,19.99,16.99,100,1699.0,15,3.6
+2023-01-14,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,103,1271.02,5,3.9
+2023-01-14,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,111,3883.89,0,3.7
+2023-01-14,P1008,Notebook Set,Office & Stationery,10.99,9.34,89,831.26,15,4.5
+2023-01-14,P1009,Backpack,Fashion & Accessories,49.99,49.99,84,4199.16,0,4.1
+2023-01-14,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,114,8719.86,15,4.1
+2023-01-14,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,82,1567.84,15,4.1
+2023-01-14,P1012,Programming Book,Books & Learning,39.95,39.95,179,7151.05,0,4.8
+2023-01-15,P1001,Wireless Headphones,Electronics,59.99,50.99,177,9025.23,15,4.2
+2023-01-15,P1002,Bluetooth Speaker,Electronics,45.99,41.39,120,4966.8,10,4.6
+2023-01-15,P1003,Smartwatch,Electronics,149.99,142.49,137,19521.13,5,4.2
+2023-01-15,P1004,Yoga Mat,Fitness,25.0,21.25,99,2103.75,15,4.2
+2023-01-15,P1005,Resistance Bands,Fitness,19.99,17.99,129,2320.71,10,4.5
+2023-01-15,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,133,1641.22,5,4.8
+2023-01-15,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,62,2169.38,0,4.9
+2023-01-15,P1008,Notebook Set,Office & Stationery,10.99,10.99,174,1912.26,0,3.6
+2023-01-15,P1009,Backpack,Fashion & Accessories,49.99,47.49,139,6601.11,5,4.8
+2023-01-15,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,76,6839.24,0,3.9
+2023-01-15,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,113,2414.81,5,4.2
+2023-01-15,P1012,Programming Book,Books & Learning,39.95,33.96,116,3939.36,15,3.9
+2023-01-16,P1001,Wireless Headphones,Electronics,59.99,53.99,137,7396.63,10,4.8
+2023-01-16,P1002,Bluetooth Speaker,Electronics,45.99,45.99,150,6898.5,0,4.6
+2023-01-16,P1003,Smartwatch,Electronics,149.99,134.99,43,5804.57,10,3.8
+2023-01-16,P1004,Yoga Mat,Fitness,25.0,25.0,47,1175.0,0,4.6
+2023-01-16,P1005,Resistance Bands,Fitness,19.99,18.99,93,1766.07,5,4.8
+2023-01-16,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,69,851.46,5,3.7
+2023-01-16,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,59,1961.16,5,4.2
+2023-01-16,P1008,Notebook Set,Office & Stationery,10.99,9.89,95,939.55,10,3.8
+2023-01-16,P1009,Backpack,Fashion & Accessories,49.99,47.49,59,2801.91,5,4.9
+2023-01-16,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,57,5129.43,0,4.9
+2023-01-16,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,177,3384.24,15,4.1
+2023-01-16,P1012,Programming Book,Books & Learning,39.95,39.95,80,3196.0,0,4.4
+2023-01-17,P1001,Wireless Headphones,Electronics,59.99,59.99,92,5519.08,0,4.5
+2023-01-17,P1002,Bluetooth Speaker,Electronics,45.99,45.99,107,4920.93,0,4.7
+2023-01-17,P1003,Smartwatch,Electronics,149.99,149.99,174,26098.26,0,4.0
+2023-01-17,P1004,Yoga Mat,Fitness,25.0,22.5,139,3127.5,10,3.6
+2023-01-17,P1005,Resistance Bands,Fitness,19.99,19.99,117,2338.83,0,4.8
+2023-01-17,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,155,2013.45,0,4.2
+2023-01-17,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,122,3628.28,15,4.6
+2023-01-17,P1008,Notebook Set,Office & Stationery,10.99,10.44,141,1472.04,5,4.6
+2023-01-17,P1009,Backpack,Fashion & Accessories,49.99,42.49,99,4206.51,15,4.2
+2023-01-17,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,98,7937.02,10,4.8
+2023-01-17,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,52,1052.48,10,4.8
+2023-01-17,P1012,Programming Book,Books & Learning,39.95,33.96,92,3124.32,15,4.4
+2023-01-18,P1001,Wireless Headphones,Electronics,59.99,53.99,127,6856.73,10,3.5
+2023-01-18,P1002,Bluetooth Speaker,Electronics,45.99,43.69,113,4936.97,5,4.2
+2023-01-18,P1003,Smartwatch,Electronics,149.99,134.99,120,16198.8,10,4.0
+2023-01-18,P1004,Yoga Mat,Fitness,25.0,25.0,100,2500.0,0,4.3
+2023-01-18,P1005,Resistance Bands,Fitness,19.99,19.99,78,1559.22,0,3.9
+2023-01-18,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,134,1479.36,15,4.3
+2023-01-18,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,91,2706.34,15,4.5
+2023-01-18,P1008,Notebook Set,Office & Stationery,10.99,9.34,155,1447.7,15,4.7
+2023-01-18,P1009,Backpack,Fashion & Accessories,49.99,44.99,53,2384.47,10,3.8
+2023-01-18,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,92,7451.08,10,4.5
+2023-01-18,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,124,2370.88,15,4.3
+2023-01-18,P1012,Programming Book,Books & Learning,39.95,33.96,118,4007.28,15,5.0
+2023-01-19,P1001,Wireless Headphones,Electronics,59.99,53.99,170,9178.3,10,4.0
+2023-01-19,P1002,Bluetooth Speaker,Electronics,45.99,41.39,146,6042.94,10,4.0
+2023-01-19,P1003,Smartwatch,Electronics,149.99,149.99,89,13349.11,0,4.6
+2023-01-19,P1004,Yoga Mat,Fitness,25.0,25.0,110,2750.0,0,4.6
+2023-01-19,P1005,Resistance Bands,Fitness,19.99,18.99,77,1462.23,5,3.8
+2023-01-19,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,153,1788.57,10,4.6
+2023-01-19,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,164,5164.36,10,5.0
+2023-01-19,P1008,Notebook Set,Office & Stationery,10.99,9.89,79,781.31,10,3.8
+2023-01-19,P1009,Backpack,Fashion & Accessories,49.99,44.99,75,3374.25,10,3.5
+2023-01-19,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,166,14191.34,5,3.9
+2023-01-19,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,43,870.32,10,4.5
+2023-01-19,P1012,Programming Book,Books & Learning,39.95,33.96,62,2105.52,15,3.7
+2023-01-20,P1001,Wireless Headphones,Electronics,59.99,53.99,33,1781.67,10,4.2
+2023-01-20,P1002,Bluetooth Speaker,Electronics,45.99,41.39,142,5877.38,10,3.8
+2023-01-20,P1003,Smartwatch,Electronics,149.99,134.99,43,5804.57,10,4.9
+2023-01-20,P1004,Yoga Mat,Fitness,25.0,25.0,152,3800.0,0,4.7
+2023-01-20,P1005,Resistance Bands,Fitness,19.99,16.99,132,2242.68,15,3.6
+2023-01-20,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,43,530.62,5,3.7
+2023-01-20,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,174,5479.26,10,3.6
+2023-01-20,P1008,Notebook Set,Office & Stationery,10.99,10.99,93,1022.07,0,4.3
+2023-01-20,P1009,Backpack,Fashion & Accessories,49.99,47.49,136,6458.64,5,4.7
+2023-01-20,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,127,9714.23,15,4.9
+2023-01-20,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,106,2026.72,15,4.0
+2023-01-20,P1012,Programming Book,Books & Learning,39.95,39.95,45,1797.75,0,4.9
+2023-01-21,P1001,Wireless Headphones,Electronics,59.99,56.99,83,4730.17,5,3.9
+2023-01-21,P1002,Bluetooth Speaker,Electronics,45.99,43.69,50,2184.5,5,3.9
+2023-01-21,P1003,Smartwatch,Electronics,149.99,149.99,171,25648.29,0,3.7
+2023-01-21,P1004,Yoga Mat,Fitness,25.0,21.25,134,2847.5,15,4.5
+2023-01-21,P1005,Resistance Bands,Fitness,19.99,17.99,150,2698.5,10,3.5
+2023-01-21,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,103,1204.07,10,4.6
+2023-01-21,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,146,5108.54,0,4.5
+2023-01-21,P1008,Notebook Set,Office & Stationery,10.99,10.44,97,1012.68,5,4.1
+2023-01-21,P1009,Backpack,Fashion & Accessories,49.99,47.49,169,8025.81,5,4.5
+2023-01-21,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,98,8378.02,5,3.6
+2023-01-21,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,72,1457.28,10,4.4
+2023-01-21,P1012,Programming Book,Books & Learning,39.95,35.96,175,6293.0,10,4.2
+2023-01-22,P1001,Wireless Headphones,Electronics,59.99,53.99,149,8044.51,10,4.5
+2023-01-22,P1002,Bluetooth Speaker,Electronics,45.99,39.09,99,3869.91,15,4.2
+2023-01-22,P1003,Smartwatch,Electronics,149.99,127.49,40,5099.6,15,4.6
+2023-01-22,P1004,Yoga Mat,Fitness,25.0,25.0,94,2350.0,0,3.6
+2023-01-22,P1005,Resistance Bands,Fitness,19.99,19.99,177,3538.23,0,5.0
+2023-01-22,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,98,1273.02,0,4.6
+2023-01-22,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,74,2200.76,15,4.3
+2023-01-22,P1008,Notebook Set,Office & Stationery,10.99,9.89,143,1414.27,10,3.8
+2023-01-22,P1009,Backpack,Fashion & Accessories,49.99,42.49,179,7605.71,15,4.5
+2023-01-22,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,155,13948.45,0,4.2
+2023-01-22,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,134,2712.16,10,4.0
+2023-01-22,P1012,Programming Book,Books & Learning,39.95,37.95,56,2125.2,5,4.0
+2023-01-23,P1001,Wireless Headphones,Electronics,59.99,53.99,156,8422.44,10,4.5
+2023-01-23,P1002,Bluetooth Speaker,Electronics,45.99,45.99,132,6070.68,0,4.2
+2023-01-23,P1003,Smartwatch,Electronics,149.99,134.99,110,14848.9,10,4.0
+2023-01-23,P1004,Yoga Mat,Fitness,25.0,25.0,133,3325.0,0,4.5
+2023-01-23,P1005,Resistance Bands,Fitness,19.99,16.99,168,2854.32,15,4.1
+2023-01-23,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,78,911.82,10,4.4
+2023-01-23,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,157,4669.18,15,4.6
+2023-01-23,P1008,Notebook Set,Office & Stationery,10.99,9.89,82,810.98,10,4.3
+2023-01-23,P1009,Backpack,Fashion & Accessories,49.99,42.49,103,4376.47,15,4.8
+2023-01-23,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,154,13858.46,0,3.5
+2023-01-23,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,91,1944.67,5,4.0
+2023-01-23,P1012,Programming Book,Books & Learning,39.95,33.96,33,1120.68,15,3.6
+2023-01-24,P1001,Wireless Headphones,Electronics,59.99,50.99,59,3008.41,15,4.9
+2023-01-24,P1002,Bluetooth Speaker,Electronics,45.99,39.09,69,2697.21,15,4.9
+2023-01-24,P1003,Smartwatch,Electronics,149.99,134.99,104,14038.96,10,4.1
+2023-01-24,P1004,Yoga Mat,Fitness,25.0,21.25,153,3251.25,15,3.9
+2023-01-24,P1005,Resistance Bands,Fitness,19.99,18.99,171,3247.29,5,4.1
+2023-01-24,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,160,1974.4,5,4.8
+2023-01-24,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,100,2974.0,15,4.0
+2023-01-24,P1008,Notebook Set,Office & Stationery,10.99,9.89,159,1572.51,10,4.7
+2023-01-24,P1009,Backpack,Fashion & Accessories,49.99,44.99,102,4588.98,10,4.8
+2023-01-24,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,178,13615.22,15,4.8
+2023-01-24,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,144,2753.28,15,4.0
+2023-01-24,P1012,Programming Book,Books & Learning,39.95,33.96,171,5807.16,15,4.2
+2023-01-25,P1001,Wireless Headphones,Electronics,59.99,56.99,112,6382.88,5,5.0
+2023-01-25,P1002,Bluetooth Speaker,Electronics,45.99,39.09,91,3557.19,15,3.9
+2023-01-25,P1003,Smartwatch,Electronics,149.99,149.99,135,20248.65,0,4.0
+2023-01-25,P1004,Yoga Mat,Fitness,25.0,21.25,151,3208.75,15,4.1
+2023-01-25,P1005,Resistance Bands,Fitness,19.99,16.99,68,1155.32,15,4.9
+2023-01-25,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,62,724.78,10,4.8
+2023-01-25,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,142,4968.58,0,4.3
+2023-01-25,P1008,Notebook Set,Office & Stationery,10.99,10.99,146,1604.54,0,4.6
+2023-01-25,P1009,Backpack,Fashion & Accessories,49.99,47.49,134,6363.66,5,3.6
+2023-01-25,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,97,7856.03,10,4.4
+2023-01-25,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,131,2946.19,0,4.8
+2023-01-25,P1012,Programming Book,Books & Learning,39.95,33.96,166,5637.36,15,4.9
+2023-01-26,P1001,Wireless Headphones,Electronics,59.99,59.99,154,9238.46,0,4.4
+2023-01-26,P1002,Bluetooth Speaker,Electronics,45.99,41.39,90,3725.1,10,5.0
+2023-01-26,P1003,Smartwatch,Electronics,149.99,127.49,53,6756.97,15,5.0
+2023-01-26,P1004,Yoga Mat,Fitness,25.0,21.25,55,1168.75,15,3.7
+2023-01-26,P1005,Resistance Bands,Fitness,19.99,19.99,106,2118.94,0,3.6
+2023-01-26,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,44,514.36,10,4.0
+2023-01-26,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,140,4653.6,5,3.9
+2023-01-26,P1008,Notebook Set,Office & Stationery,10.99,10.44,135,1409.4,5,3.8
+2023-01-26,P1009,Backpack,Fashion & Accessories,49.99,42.49,50,2124.5,15,4.4
+2023-01-26,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,91,6960.59,15,4.9
+2023-01-26,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,66,1410.42,5,4.2
+2023-01-26,P1012,Programming Book,Books & Learning,39.95,33.96,95,3226.2,15,3.9
+2023-01-27,P1001,Wireless Headphones,Electronics,59.99,50.99,32,1631.68,15,4.9
+2023-01-27,P1002,Bluetooth Speaker,Electronics,45.99,43.69,169,7383.61,5,3.6
+2023-01-27,P1003,Smartwatch,Electronics,149.99,134.99,118,15928.82,10,4.5
+2023-01-27,P1004,Yoga Mat,Fitness,25.0,22.5,138,3105.0,10,4.2
+2023-01-27,P1005,Resistance Bands,Fitness,19.99,18.99,107,2031.93,5,5.0
+2023-01-27,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,153,1987.47,0,3.9
+2023-01-27,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,176,5542.24,10,4.4
+2023-01-27,P1008,Notebook Set,Office & Stationery,10.99,10.99,105,1153.95,0,5.0
+2023-01-27,P1009,Backpack,Fashion & Accessories,49.99,44.99,131,5893.69,10,3.5
+2023-01-27,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,42,3212.58,15,4.7
+2023-01-27,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,103,2201.11,5,4.4
+2023-01-27,P1012,Programming Book,Books & Learning,39.95,37.95,120,4554.0,5,4.5
+2023-01-28,P1001,Wireless Headphones,Electronics,59.99,56.99,94,5357.06,5,4.4
+2023-01-28,P1002,Bluetooth Speaker,Electronics,45.99,41.39,40,1655.6,10,4.7
+2023-01-28,P1003,Smartwatch,Electronics,149.99,134.99,38,5129.62,10,4.6
+2023-01-28,P1004,Yoga Mat,Fitness,25.0,22.5,53,1192.5,10,4.0
+2023-01-28,P1005,Resistance Bands,Fitness,19.99,18.99,136,2582.64,5,3.8
+2023-01-28,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,168,1963.92,10,4.3
+2023-01-28,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,99,3290.76,5,3.9
+2023-01-28,P1008,Notebook Set,Office & Stationery,10.99,9.89,153,1513.17,10,4.6
+2023-01-28,P1009,Backpack,Fashion & Accessories,49.99,49.99,116,5798.84,0,4.2
+2023-01-28,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,49,4189.01,5,4.6
+2023-01-28,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,87,1663.44,15,5.0
+2023-01-28,P1012,Programming Book,Books & Learning,39.95,35.96,172,6185.12,10,3.6
+2023-01-29,P1001,Wireless Headphones,Electronics,59.99,59.99,131,7858.69,0,3.9
+2023-01-29,P1002,Bluetooth Speaker,Electronics,45.99,39.09,61,2384.49,15,4.1
+2023-01-29,P1003,Smartwatch,Electronics,149.99,127.49,97,12366.53,15,4.7
+2023-01-29,P1004,Yoga Mat,Fitness,25.0,25.0,125,3125.0,0,4.5
+2023-01-29,P1005,Resistance Bands,Fitness,19.99,19.99,150,2998.5,0,4.4
+2023-01-29,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,173,2022.37,10,4.9
+2023-01-29,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,86,3009.14,0,4.5
+2023-01-29,P1008,Notebook Set,Office & Stationery,10.99,9.89,148,1463.72,10,4.5
+2023-01-29,P1009,Backpack,Fashion & Accessories,49.99,47.49,59,2801.91,5,3.6
+2023-01-29,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,39,3158.61,10,5.0
+2023-01-29,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,59,1326.91,0,3.9
+2023-01-29,P1012,Programming Book,Books & Learning,39.95,37.95,167,6337.65,5,4.1
+2023-01-30,P1001,Wireless Headphones,Electronics,59.99,50.99,124,6322.76,15,4.4
+2023-01-30,P1002,Bluetooth Speaker,Electronics,45.99,39.09,69,2697.21,15,4.5
+2023-01-30,P1003,Smartwatch,Electronics,149.99,127.49,155,19760.95,15,4.9
+2023-01-30,P1004,Yoga Mat,Fitness,25.0,25.0,101,2525.0,0,4.5
+2023-01-30,P1005,Resistance Bands,Fitness,19.99,16.99,85,1444.15,15,4.2
+2023-01-30,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,90,1052.1,10,3.6
+2023-01-30,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,124,3904.76,10,3.6
+2023-01-30,P1008,Notebook Set,Office & Stationery,10.99,10.44,100,1044.0,5,5.0
+2023-01-30,P1009,Backpack,Fashion & Accessories,49.99,49.99,146,7298.54,0,4.5
+2023-01-30,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,35,3149.65,0,4.7
+2023-01-30,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,92,1966.04,5,4.7
+2023-01-30,P1012,Programming Book,Books & Learning,39.95,39.95,82,3275.9,0,4.7
+2023-01-31,P1001,Wireless Headphones,Electronics,59.99,56.99,171,9745.29,5,4.4
+2023-01-31,P1002,Bluetooth Speaker,Electronics,45.99,41.39,89,3683.71,10,4.7
+2023-01-31,P1003,Smartwatch,Electronics,149.99,134.99,30,4049.7,10,4.8
+2023-01-31,P1004,Yoga Mat,Fitness,25.0,23.75,67,1591.25,5,4.3
+2023-01-31,P1005,Resistance Bands,Fitness,19.99,19.99,74,1479.26,0,4.5
+2023-01-31,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,36,444.24,5,3.5
+2023-01-31,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,90,2834.1,10,3.5
+2023-01-31,P1008,Notebook Set,Office & Stationery,10.99,10.99,97,1066.03,0,3.7
+2023-01-31,P1009,Backpack,Fashion & Accessories,49.99,49.99,137,6848.63,0,4.6
+2023-01-31,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,151,11549.99,15,4.7
+2023-01-31,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,161,3620.89,0,4.2
+2023-01-31,P1012,Programming Book,Books & Learning,39.95,39.95,86,3435.7,0,4.6
+2023-02-01,P1001,Wireless Headphones,Electronics,59.99,53.99,163,8800.37,10,4.2
+2023-02-01,P1002,Bluetooth Speaker,Electronics,45.99,45.99,37,1701.63,0,5.0
+2023-02-01,P1003,Smartwatch,Electronics,149.99,127.49,132,16828.68,15,4.5
+2023-02-01,P1004,Yoga Mat,Fitness,25.0,21.25,155,3293.75,15,3.6
+2023-02-01,P1005,Resistance Bands,Fitness,19.99,17.99,50,899.5,10,4.4
+2023-02-01,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,46,567.64,5,3.9
+2023-02-01,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,179,5636.71,10,4.1
+2023-02-01,P1008,Notebook Set,Office & Stationery,10.99,9.89,165,1631.85,10,4.2
+2023-02-01,P1009,Backpack,Fashion & Accessories,49.99,49.99,140,6998.6,0,4.7
+2023-02-01,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,59,5043.91,5,4.1
+2023-02-01,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,88,1682.56,15,4.0
+2023-02-01,P1012,Programming Book,Books & Learning,39.95,33.96,146,4958.16,15,4.1
+2023-02-02,P1001,Wireless Headphones,Electronics,59.99,53.99,54,2915.46,10,4.1
+2023-02-02,P1002,Bluetooth Speaker,Electronics,45.99,41.39,95,3932.05,10,4.9
+2023-02-02,P1003,Smartwatch,Electronics,149.99,149.99,151,22648.49,0,3.6
+2023-02-02,P1004,Yoga Mat,Fitness,25.0,25.0,51,1275.0,0,4.1
+2023-02-02,P1005,Resistance Bands,Fitness,19.99,18.99,125,2373.75,5,4.3
+2023-02-02,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,180,2104.2,10,4.5
+2023-02-02,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,135,4251.15,10,4.8
+2023-02-02,P1008,Notebook Set,Office & Stationery,10.99,10.99,138,1516.62,0,5.0
+2023-02-02,P1009,Backpack,Fashion & Accessories,49.99,44.99,109,4903.91,10,3.7
+2023-02-02,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,159,13592.91,5,3.7
+2023-02-02,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,153,3269.61,5,4.8
+2023-02-02,P1012,Programming Book,Books & Learning,39.95,35.96,119,4279.24,10,3.7
+2023-02-03,P1001,Wireless Headphones,Electronics,59.99,56.99,101,5755.99,5,4.7
+2023-02-03,P1002,Bluetooth Speaker,Electronics,45.99,45.99,173,7956.27,0,4.4
+2023-02-03,P1003,Smartwatch,Electronics,149.99,149.99,98,14699.02,0,3.8
+2023-02-03,P1004,Yoga Mat,Fitness,25.0,22.5,109,2452.5,10,4.0
+2023-02-03,P1005,Resistance Bands,Fitness,19.99,18.99,76,1443.24,5,4.3
+2023-02-03,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,132,1714.68,0,3.7
+2023-02-03,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,37,1294.63,0,4.6
+2023-02-03,P1008,Notebook Set,Office & Stationery,10.99,9.34,85,793.9,15,4.1
+2023-02-03,P1009,Backpack,Fashion & Accessories,49.99,47.49,117,5556.33,5,4.1
+2023-02-03,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,113,10168.87,0,4.8
+2023-02-03,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,69,1474.53,5,4.6
+2023-02-03,P1012,Programming Book,Books & Learning,39.95,39.95,42,1677.9,0,3.9
+2023-02-04,P1001,Wireless Headphones,Electronics,59.99,50.99,138,7036.62,15,4.4
+2023-02-04,P1002,Bluetooth Speaker,Electronics,45.99,41.39,136,5629.04,10,3.8
+2023-02-04,P1003,Smartwatch,Electronics,149.99,149.99,161,24148.39,0,4.0
+2023-02-04,P1004,Yoga Mat,Fitness,25.0,22.5,58,1305.0,10,4.5
+2023-02-04,P1005,Resistance Bands,Fitness,19.99,17.99,154,2770.46,10,3.6
+2023-02-04,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,131,1701.69,0,3.5
+2023-02-04,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,107,3556.68,5,4.7
+2023-02-04,P1008,Notebook Set,Office & Stationery,10.99,9.89,95,939.55,10,4.0
+2023-02-04,P1009,Backpack,Fashion & Accessories,49.99,42.49,31,1317.19,15,4.6
+2023-02-04,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,74,6326.26,5,4.1
+2023-02-04,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,88,1781.12,10,3.6
+2023-02-04,P1012,Programming Book,Books & Learning,39.95,33.96,40,1358.4,15,3.5
+2023-02-05,P1001,Wireless Headphones,Electronics,59.99,53.99,49,2645.51,10,4.4
+2023-02-05,P1002,Bluetooth Speaker,Electronics,45.99,39.09,176,6879.84,15,4.6
+2023-02-05,P1003,Smartwatch,Electronics,149.99,134.99,136,18358.64,10,3.7
+2023-02-05,P1004,Yoga Mat,Fitness,25.0,22.5,35,787.5,10,3.8
+2023-02-05,P1005,Resistance Bands,Fitness,19.99,17.99,147,2644.53,10,3.6
+2023-02-05,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,57,703.38,5,4.2
+2023-02-05,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,132,4618.68,0,4.1
+2023-02-05,P1008,Notebook Set,Office & Stationery,10.99,9.89,109,1078.01,10,3.8
+2023-02-05,P1009,Backpack,Fashion & Accessories,49.99,49.99,73,3649.27,0,4.3
+2023-02-05,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,59,5043.91,5,4.9
+2023-02-05,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,119,2408.56,10,4.6
+2023-02-05,P1012,Programming Book,Books & Learning,39.95,37.95,67,2542.65,5,3.7
+2023-02-06,P1001,Wireless Headphones,Electronics,59.99,56.99,95,5414.05,5,3.8
+2023-02-06,P1002,Bluetooth Speaker,Electronics,45.99,45.99,69,3173.31,0,3.8
+2023-02-06,P1003,Smartwatch,Electronics,149.99,127.49,156,19888.44,15,4.6
+2023-02-06,P1004,Yoga Mat,Fitness,25.0,21.25,178,3782.5,15,4.5
+2023-02-06,P1005,Resistance Bands,Fitness,19.99,17.99,174,3130.26,10,4.8
+2023-02-06,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,110,1357.4,5,4.2
+2023-02-06,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,150,4461.0,15,4.4
+2023-02-06,P1008,Notebook Set,Office & Stationery,10.99,10.99,100,1099.0,0,4.0
+2023-02-06,P1009,Backpack,Fashion & Accessories,49.99,44.99,48,2159.52,10,4.2
+2023-02-06,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,39,3509.61,0,4.1
+2023-02-06,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,103,2316.47,0,4.5
+2023-02-06,P1012,Programming Book,Books & Learning,39.95,33.96,53,1799.88,15,4.2
+2023-02-07,P1001,Wireless Headphones,Electronics,59.99,59.99,171,10258.29,0,4.2
+2023-02-07,P1002,Bluetooth Speaker,Electronics,45.99,43.69,176,7689.44,5,4.0
+2023-02-07,P1003,Smartwatch,Electronics,149.99,142.49,151,21515.99,5,4.9
+2023-02-07,P1004,Yoga Mat,Fitness,25.0,25.0,145,3625.0,0,4.7
+2023-02-07,P1005,Resistance Bands,Fitness,19.99,19.99,117,2338.83,0,4.3
+2023-02-07,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,74,961.26,0,3.9
+2023-02-07,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,142,4223.08,15,4.3
+2023-02-07,P1008,Notebook Set,Office & Stationery,10.99,9.89,70,692.3,10,4.1
+2023-02-07,P1009,Backpack,Fashion & Accessories,49.99,42.49,102,4333.98,15,4.1
+2023-02-07,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,116,10438.84,0,4.7
+2023-02-07,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,115,2586.35,0,4.0
+2023-02-07,P1012,Programming Book,Books & Learning,39.95,33.96,172,5841.12,15,3.9
+2023-02-08,P1001,Wireless Headphones,Electronics,59.99,53.99,68,3671.32,10,3.6
+2023-02-08,P1002,Bluetooth Speaker,Electronics,45.99,41.39,66,2731.74,10,4.0
+2023-02-08,P1003,Smartwatch,Electronics,149.99,142.49,130,18523.7,5,4.4
+2023-02-08,P1004,Yoga Mat,Fitness,25.0,22.5,51,1147.5,10,4.3
+2023-02-08,P1005,Resistance Bands,Fitness,19.99,18.99,114,2164.86,5,4.5
+2023-02-08,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,164,2130.36,0,4.5
+2023-02-08,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,138,4345.62,10,3.5
+2023-02-08,P1008,Notebook Set,Office & Stationery,10.99,10.44,109,1137.96,5,4.9
+2023-02-08,P1009,Backpack,Fashion & Accessories,49.99,42.49,117,4971.33,15,3.8
+2023-02-08,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,65,5556.85,5,3.6
+2023-02-08,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,55,1236.95,0,4.5
+2023-02-08,P1012,Programming Book,Books & Learning,39.95,33.96,63,2139.48,15,3.7
+2023-02-09,P1001,Wireless Headphones,Electronics,59.99,56.99,76,4331.24,5,4.6
+2023-02-09,P1002,Bluetooth Speaker,Electronics,45.99,39.09,41,1602.69,15,4.0
+2023-02-09,P1003,Smartwatch,Electronics,149.99,127.49,90,11474.1,15,4.4
+2023-02-09,P1004,Yoga Mat,Fitness,25.0,23.75,144,3420.0,5,4.3
+2023-02-09,P1005,Resistance Bands,Fitness,19.99,16.99,109,1851.91,15,4.9
+2023-02-09,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,79,923.51,10,4.5
+2023-02-09,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,176,5234.24,15,4.2
+2023-02-09,P1008,Notebook Set,Office & Stationery,10.99,9.34,102,952.68,15,4.3
+2023-02-09,P1009,Backpack,Fashion & Accessories,49.99,47.49,137,6506.13,5,4.7
+2023-02-09,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,65,5264.35,10,3.6
+2023-02-09,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,153,3096.72,10,4.3
+2023-02-09,P1012,Programming Book,Books & Learning,39.95,39.95,56,2237.2,0,3.9
+2023-02-10,P1001,Wireless Headphones,Electronics,59.99,53.99,71,3833.29,10,4.2
+2023-02-10,P1002,Bluetooth Speaker,Electronics,45.99,43.69,161,7034.09,5,4.7
+2023-02-10,P1003,Smartwatch,Electronics,149.99,142.49,53,7551.97,5,4.7
+2023-02-10,P1004,Yoga Mat,Fitness,25.0,25.0,119,2975.0,0,4.1
+2023-02-10,P1005,Resistance Bands,Fitness,19.99,17.99,131,2356.69,10,3.9
+2023-02-10,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,50,584.5,10,3.8
+2023-02-10,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,111,3883.89,0,4.8
+2023-02-10,P1008,Notebook Set,Office & Stationery,10.99,10.44,115,1200.6,5,3.7
+2023-02-10,P1009,Backpack,Fashion & Accessories,49.99,42.49,103,4376.47,15,4.5
+2023-02-10,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,65,4971.85,15,4.2
+2023-02-10,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,31,697.19,0,3.5
+2023-02-10,P1012,Programming Book,Books & Learning,39.95,37.95,85,3225.75,5,4.3
+2023-02-11,P1001,Wireless Headphones,Electronics,59.99,50.99,165,8413.35,15,3.7
+2023-02-11,P1002,Bluetooth Speaker,Electronics,45.99,43.69,103,4500.07,5,4.0
+2023-02-11,P1003,Smartwatch,Electronics,149.99,142.49,42,5984.58,5,4.1
+2023-02-11,P1004,Yoga Mat,Fitness,25.0,25.0,147,3675.0,0,3.7
+2023-02-11,P1005,Resistance Bands,Fitness,19.99,19.99,157,3138.43,0,4.4
+2023-02-11,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,177,2184.18,5,4.6
+2023-02-11,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,104,3092.96,15,3.5
+2023-02-11,P1008,Notebook Set,Office & Stationery,10.99,10.44,120,1252.8,5,4.4
+2023-02-11,P1009,Backpack,Fashion & Accessories,49.99,49.99,77,3849.23,0,4.3
+2023-02-11,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,122,10978.78,0,4.9
+2023-02-11,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,169,3800.81,0,4.1
+2023-02-11,P1012,Programming Book,Books & Learning,39.95,39.95,150,5992.5,0,4.5
+2023-02-12,P1001,Wireless Headphones,Electronics,59.99,53.99,125,6748.75,10,4.6
+2023-02-12,P1002,Bluetooth Speaker,Electronics,45.99,45.99,121,5564.79,0,4.0
+2023-02-12,P1003,Smartwatch,Electronics,149.99,134.99,56,7559.44,10,3.7
+2023-02-12,P1004,Yoga Mat,Fitness,25.0,22.5,120,2700.0,10,4.7
+2023-02-12,P1005,Resistance Bands,Fitness,19.99,16.99,74,1257.26,15,5.0
+2023-02-12,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,152,1875.68,5,4.7
+2023-02-12,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,46,1368.04,15,3.6
+2023-02-12,P1008,Notebook Set,Office & Stationery,10.99,10.99,81,890.19,0,4.7
+2023-02-12,P1009,Backpack,Fashion & Accessories,49.99,44.99,40,1799.6,10,4.9
+2023-02-12,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,161,12314.89,15,5.0
+2023-02-12,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,169,3231.28,15,3.9
+2023-02-12,P1012,Programming Book,Books & Learning,39.95,35.96,78,2804.88,10,4.0
+2023-02-13,P1001,Wireless Headphones,Electronics,59.99,53.99,42,2267.58,10,3.9
+2023-02-13,P1002,Bluetooth Speaker,Electronics,45.99,39.09,124,4847.16,15,4.8
+2023-02-13,P1003,Smartwatch,Electronics,149.99,127.49,142,18103.58,15,4.0
+2023-02-13,P1004,Yoga Mat,Fitness,25.0,21.25,77,1636.25,15,4.5
+2023-02-13,P1005,Resistance Bands,Fitness,19.99,17.99,124,2230.76,10,4.7
+2023-02-13,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,138,1792.62,0,4.1
+2023-02-13,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,76,2393.24,10,4.0
+2023-02-13,P1008,Notebook Set,Office & Stationery,10.99,9.89,50,494.5,10,4.5
+2023-02-13,P1009,Backpack,Fashion & Accessories,49.99,42.49,108,4588.92,15,4.4
+2023-02-13,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,139,11883.11,5,4.5
+2023-02-13,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,119,2275.28,15,3.6
+2023-02-13,P1012,Programming Book,Books & Learning,39.95,33.96,120,4075.2,15,3.9
+2023-02-14,P1001,Wireless Headphones,Electronics,59.99,59.99,44,2639.56,0,4.5
+2023-02-14,P1002,Bluetooth Speaker,Electronics,45.99,41.39,133,5504.87,10,4.3
+2023-02-14,P1003,Smartwatch,Electronics,149.99,149.99,70,10499.3,0,3.7
+2023-02-14,P1004,Yoga Mat,Fitness,25.0,25.0,142,3550.0,0,3.7
+2023-02-14,P1005,Resistance Bands,Fitness,19.99,17.99,90,1619.1,10,4.0
+2023-02-14,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,175,2273.25,0,4.4
+2023-02-14,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,145,4566.05,10,4.1
+2023-02-14,P1008,Notebook Set,Office & Stationery,10.99,10.44,49,511.56,5,4.3
+2023-02-14,P1009,Backpack,Fashion & Accessories,49.99,44.99,131,5893.69,10,4.5
+2023-02-14,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,93,8369.07,0,3.5
+2023-02-14,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,77,1472.24,15,4.3
+2023-02-14,P1012,Programming Book,Books & Learning,39.95,39.95,173,6911.35,0,3.9
+2023-02-15,P1001,Wireless Headphones,Electronics,59.99,50.99,96,4895.04,15,3.8
+2023-02-15,P1002,Bluetooth Speaker,Electronics,45.99,39.09,103,4026.27,15,3.8
+2023-02-15,P1003,Smartwatch,Electronics,149.99,149.99,64,9599.36,0,4.2
+2023-02-15,P1004,Yoga Mat,Fitness,25.0,25.0,143,3575.0,0,4.7
+2023-02-15,P1005,Resistance Bands,Fitness,19.99,17.99,111,1996.89,10,4.6
+2023-02-15,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,170,1987.3,10,4.8
+2023-02-15,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,70,2326.8,5,4.7
+2023-02-15,P1008,Notebook Set,Office & Stationery,10.99,10.44,160,1670.4,5,3.7
+2023-02-15,P1009,Backpack,Fashion & Accessories,49.99,47.49,81,3846.69,5,3.9
+2023-02-15,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,156,14038.44,0,4.0
+2023-02-15,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,176,3562.24,10,4.2
+2023-02-15,P1012,Programming Book,Books & Learning,39.95,37.95,171,6489.45,5,4.4
+2023-02-16,P1001,Wireless Headphones,Electronics,59.99,59.99,52,3119.48,0,4.0
+2023-02-16,P1002,Bluetooth Speaker,Electronics,45.99,39.09,152,5941.68,15,4.7
+2023-02-16,P1003,Smartwatch,Electronics,149.99,149.99,177,26548.23,0,3.7
+2023-02-16,P1004,Yoga Mat,Fitness,25.0,25.0,111,2775.0,0,4.2
+2023-02-16,P1005,Resistance Bands,Fitness,19.99,17.99,162,2914.38,10,3.7
+2023-02-16,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,171,2110.14,5,4.7
+2023-02-16,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,63,1873.62,15,4.3
+2023-02-16,P1008,Notebook Set,Office & Stationery,10.99,10.99,44,483.56,0,4.3
+2023-02-16,P1009,Backpack,Fashion & Accessories,49.99,47.49,107,5081.43,5,3.7
+2023-02-16,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,87,7046.13,10,4.9
+2023-02-16,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,162,3278.88,10,4.8
+2023-02-16,P1012,Programming Book,Books & Learning,39.95,37.95,94,3567.3,5,4.5
+2023-02-17,P1001,Wireless Headphones,Electronics,59.99,53.99,171,9232.29,10,3.7
+2023-02-17,P1002,Bluetooth Speaker,Electronics,45.99,45.99,107,4920.93,0,4.3
+2023-02-17,P1003,Smartwatch,Electronics,149.99,142.49,73,10401.77,5,3.8
+2023-02-17,P1004,Yoga Mat,Fitness,25.0,25.0,116,2900.0,0,4.7
+2023-02-17,P1005,Resistance Bands,Fitness,19.99,19.99,37,739.63,0,3.6
+2023-02-17,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,177,2069.13,10,4.5
+2023-02-17,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,176,5234.24,15,4.4
+2023-02-17,P1008,Notebook Set,Office & Stationery,10.99,9.34,37,345.58,15,4.8
+2023-02-17,P1009,Backpack,Fashion & Accessories,49.99,44.99,169,7603.31,10,4.5
+2023-02-17,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,107,8184.43,15,3.9
+2023-02-17,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,133,2691.92,10,4.2
+2023-02-17,P1012,Programming Book,Books & Learning,39.95,37.95,45,1707.75,5,4.2
+2023-02-18,P1001,Wireless Headphones,Electronics,59.99,50.99,153,7801.47,15,3.8
+2023-02-18,P1002,Bluetooth Speaker,Electronics,45.99,41.39,66,2731.74,10,4.8
+2023-02-18,P1003,Smartwatch,Electronics,149.99,134.99,111,14983.89,10,5.0
+2023-02-18,P1004,Yoga Mat,Fitness,25.0,22.5,63,1417.5,10,4.3
+2023-02-18,P1005,Resistance Bands,Fitness,19.99,17.99,57,1025.43,10,3.9
+2023-02-18,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,61,713.09,10,4.2
+2023-02-18,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,66,2309.34,0,3.6
+2023-02-18,P1008,Notebook Set,Office & Stationery,10.99,9.34,128,1195.52,15,3.9
+2023-02-18,P1009,Backpack,Fashion & Accessories,49.99,44.99,70,3149.3,10,4.9
+2023-02-18,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,110,9403.9,5,4.6
+2023-02-18,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,157,3001.84,15,4.2
+2023-02-18,P1012,Programming Book,Books & Learning,39.95,33.96,108,3667.68,15,3.5
+2023-02-19,P1001,Wireless Headphones,Electronics,59.99,50.99,130,6628.7,15,5.0
+2023-02-19,P1002,Bluetooth Speaker,Electronics,45.99,41.39,85,3518.15,10,3.6
+2023-02-19,P1003,Smartwatch,Electronics,149.99,127.49,102,13003.98,15,4.4
+2023-02-19,P1004,Yoga Mat,Fitness,25.0,22.5,150,3375.0,10,4.3
+2023-02-19,P1005,Resistance Bands,Fitness,19.99,16.99,57,968.43,15,3.7
+2023-02-19,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,97,1133.93,10,4.6
+2023-02-19,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,123,4303.77,0,4.1
+2023-02-19,P1008,Notebook Set,Office & Stationery,10.99,10.44,175,1827.0,5,4.0
+2023-02-19,P1009,Backpack,Fashion & Accessories,49.99,49.99,103,5148.97,0,4.1
+2023-02-19,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,145,11743.55,10,4.7
+2023-02-19,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,60,1282.2,5,5.0
+2023-02-19,P1012,Programming Book,Books & Learning,39.95,35.96,130,4674.8,10,4.7
+2023-02-20,P1001,Wireless Headphones,Electronics,59.99,53.99,116,6262.84,10,4.6
+2023-02-20,P1002,Bluetooth Speaker,Electronics,45.99,39.09,80,3127.2,15,4.3
+2023-02-20,P1003,Smartwatch,Electronics,149.99,149.99,41,6149.59,0,3.7
+2023-02-20,P1004,Yoga Mat,Fitness,25.0,21.25,115,2443.75,15,4.3
+2023-02-20,P1005,Resistance Bands,Fitness,19.99,18.99,68,1291.32,5,4.0
+2023-02-20,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,111,1369.74,5,4.1
+2023-02-20,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,106,3337.94,10,4.3
+2023-02-20,P1008,Notebook Set,Office & Stationery,10.99,9.34,160,1494.4,15,4.6
+2023-02-20,P1009,Backpack,Fashion & Accessories,49.99,42.49,106,4503.94,15,4.7
+2023-02-20,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,124,10042.76,10,4.5
+2023-02-20,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,136,2752.64,10,4.7
+2023-02-20,P1012,Programming Book,Books & Learning,39.95,33.96,36,1222.56,15,3.9
+2023-02-21,P1001,Wireless Headphones,Electronics,59.99,56.99,178,10144.22,5,4.6
+2023-02-21,P1002,Bluetooth Speaker,Electronics,45.99,39.09,179,6997.11,15,3.8
+2023-02-21,P1003,Smartwatch,Electronics,149.99,142.49,127,18096.23,5,4.7
+2023-02-21,P1004,Yoga Mat,Fitness,25.0,25.0,92,2300.0,0,4.4
+2023-02-21,P1005,Resistance Bands,Fitness,19.99,18.99,58,1101.42,5,3.5
+2023-02-21,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,110,1214.4,15,3.7
+2023-02-21,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,82,2438.68,15,4.3
+2023-02-21,P1008,Notebook Set,Office & Stationery,10.99,10.99,150,1648.5,0,4.6
+2023-02-21,P1009,Backpack,Fashion & Accessories,49.99,47.49,162,7693.38,5,4.3
+2023-02-21,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,152,11626.48,15,4.0
+2023-02-21,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,74,1414.88,15,4.9
+2023-02-21,P1012,Programming Book,Books & Learning,39.95,35.96,117,4207.32,10,4.5
+2023-02-22,P1001,Wireless Headphones,Electronics,59.99,50.99,97,4946.03,15,3.8
+2023-02-22,P1002,Bluetooth Speaker,Electronics,45.99,41.39,93,3849.27,10,4.3
+2023-02-22,P1003,Smartwatch,Electronics,149.99,134.99,87,11744.13,10,4.7
+2023-02-22,P1004,Yoga Mat,Fitness,25.0,21.25,83,1763.75,15,4.0
+2023-02-22,P1005,Resistance Bands,Fitness,19.99,17.99,119,2140.81,10,3.9
+2023-02-22,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,176,1943.04,15,4.8
+2023-02-22,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,131,4125.19,10,4.9
+2023-02-22,P1008,Notebook Set,Office & Stationery,10.99,9.89,67,662.63,10,3.6
+2023-02-22,P1009,Backpack,Fashion & Accessories,49.99,44.99,50,2249.5,10,4.9
+2023-02-22,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,95,7266.55,15,3.8
+2023-02-22,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,167,3380.08,10,4.9
+2023-02-22,P1012,Programming Book,Books & Learning,39.95,37.95,99,3757.05,5,3.7
+2023-02-23,P1001,Wireless Headphones,Electronics,59.99,56.99,180,10258.2,5,3.9
+2023-02-23,P1002,Bluetooth Speaker,Electronics,45.99,43.69,165,7208.85,5,4.5
+2023-02-23,P1003,Smartwatch,Electronics,149.99,149.99,43,6449.57,0,4.1
+2023-02-23,P1004,Yoga Mat,Fitness,25.0,25.0,150,3750.0,0,4.5
+2023-02-23,P1005,Resistance Bands,Fitness,19.99,19.99,65,1299.35,0,4.9
+2023-02-23,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,70,772.8,15,4.5
+2023-02-23,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,151,4490.74,15,4.5
+2023-02-23,P1008,Notebook Set,Office & Stationery,10.99,9.89,103,1018.67,10,3.9
+2023-02-23,P1009,Backpack,Fashion & Accessories,49.99,49.99,45,2249.55,0,4.5
+2023-02-23,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,89,8009.11,0,4.9
+2023-02-23,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,74,1414.88,15,4.8
+2023-02-23,P1012,Programming Book,Books & Learning,39.95,39.95,75,2996.25,0,5.0
+2023-02-24,P1001,Wireless Headphones,Electronics,59.99,50.99,131,6679.69,15,3.8
+2023-02-24,P1002,Bluetooth Speaker,Electronics,45.99,45.99,104,4782.96,0,3.5
+2023-02-24,P1003,Smartwatch,Electronics,149.99,149.99,175,26248.25,0,4.9
+2023-02-24,P1004,Yoga Mat,Fitness,25.0,22.5,115,2587.5,10,4.2
+2023-02-24,P1005,Resistance Bands,Fitness,19.99,16.99,169,2871.31,15,4.8
+2023-02-24,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,64,706.56,15,3.9
+2023-02-24,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,58,1826.42,10,3.7
+2023-02-24,P1008,Notebook Set,Office & Stationery,10.99,9.89,147,1453.83,10,4.6
+2023-02-24,P1009,Backpack,Fashion & Accessories,49.99,44.99,33,1484.67,10,4.7
+2023-02-24,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,175,14960.75,5,3.8
+2023-02-24,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,133,2542.96,15,4.3
+2023-02-24,P1012,Programming Book,Books & Learning,39.95,33.96,52,1765.92,15,4.5
+2023-02-25,P1001,Wireless Headphones,Electronics,59.99,56.99,77,4388.23,5,4.2
+2023-02-25,P1002,Bluetooth Speaker,Electronics,45.99,45.99,93,4277.07,0,3.9
+2023-02-25,P1003,Smartwatch,Electronics,149.99,127.49,90,11474.1,15,4.6
+2023-02-25,P1004,Yoga Mat,Fitness,25.0,22.5,114,2565.0,10,4.4
+2023-02-25,P1005,Resistance Bands,Fitness,19.99,19.99,176,3518.24,0,3.9
+2023-02-25,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,122,1505.48,5,3.6
+2023-02-25,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,60,1784.4,15,4.0
+2023-02-25,P1008,Notebook Set,Office & Stationery,10.99,9.89,133,1315.37,10,4.5
+2023-02-25,P1009,Backpack,Fashion & Accessories,49.99,44.99,105,4723.95,10,4.4
+2023-02-25,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,86,7352.14,5,4.2
+2023-02-25,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,146,2955.04,10,4.1
+2023-02-25,P1012,Programming Book,Books & Learning,39.95,33.96,170,5773.2,15,4.6
+2023-02-26,P1001,Wireless Headphones,Electronics,59.99,56.99,85,4844.15,5,4.5
+2023-02-26,P1002,Bluetooth Speaker,Electronics,45.99,39.09,50,1954.5,15,4.3
+2023-02-26,P1003,Smartwatch,Electronics,149.99,149.99,122,18298.78,0,4.9
+2023-02-26,P1004,Yoga Mat,Fitness,25.0,25.0,58,1450.0,0,4.7
+2023-02-26,P1005,Resistance Bands,Fitness,19.99,18.99,159,3019.41,5,4.4
+2023-02-26,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,68,839.12,5,4.0
+2023-02-26,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,163,4847.62,15,3.7
+2023-02-26,P1008,Notebook Set,Office & Stationery,10.99,9.34,82,765.88,15,3.6
+2023-02-26,P1009,Backpack,Fashion & Accessories,49.99,42.49,160,6798.4,15,4.7
+2023-02-26,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,146,12481.54,5,4.3
+2023-02-26,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,146,3283.54,0,4.3
+2023-02-26,P1012,Programming Book,Books & Learning,39.95,39.95,108,4314.6,0,4.1
+2023-02-27,P1001,Wireless Headphones,Electronics,59.99,56.99,30,1709.7,5,4.4
+2023-02-27,P1002,Bluetooth Speaker,Electronics,45.99,39.09,41,1602.69,15,4.0
+2023-02-27,P1003,Smartwatch,Electronics,149.99,149.99,46,6899.54,0,4.9
+2023-02-27,P1004,Yoga Mat,Fitness,25.0,21.25,47,998.75,15,3.5
+2023-02-27,P1005,Resistance Bands,Fitness,19.99,18.99,134,2544.66,5,4.7
+2023-02-27,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,137,1601.53,10,5.0
+2023-02-27,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,127,3776.98,15,4.8
+2023-02-27,P1008,Notebook Set,Office & Stationery,10.99,9.34,126,1176.84,15,3.6
+2023-02-27,P1009,Backpack,Fashion & Accessories,49.99,47.49,168,7978.32,5,4.5
+2023-02-27,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,119,10708.81,0,3.8
+2023-02-27,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,167,3193.04,15,4.3
+2023-02-27,P1012,Programming Book,Books & Learning,39.95,39.95,87,3475.65,0,4.6
+2023-02-28,P1001,Wireless Headphones,Electronics,59.99,50.99,106,5404.94,15,4.5
+2023-02-28,P1002,Bluetooth Speaker,Electronics,45.99,39.09,169,6606.21,15,4.3
+2023-02-28,P1003,Smartwatch,Electronics,149.99,142.49,88,12539.12,5,4.2
+2023-02-28,P1004,Yoga Mat,Fitness,25.0,22.5,69,1552.5,10,3.8
+2023-02-28,P1005,Resistance Bands,Fitness,19.99,19.99,58,1159.42,0,4.7
+2023-02-28,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,137,1779.63,0,3.9
+2023-02-28,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,47,1644.53,0,4.4
+2023-02-28,P1008,Notebook Set,Office & Stationery,10.99,10.99,144,1582.56,0,3.9
+2023-02-28,P1009,Backpack,Fashion & Accessories,49.99,42.49,41,1742.09,15,4.2
+2023-02-28,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,168,14362.32,5,4.6
+2023-02-28,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,44,940.28,5,4.3
+2023-02-28,P1012,Programming Book,Books & Learning,39.95,37.95,104,3946.8,5,4.7
+2023-03-01,P1001,Wireless Headphones,Electronics,59.99,53.99,177,9556.23,10,4.4
+2023-03-01,P1002,Bluetooth Speaker,Electronics,45.99,43.69,112,4893.28,5,4.0
+2023-03-01,P1003,Smartwatch,Electronics,149.99,142.49,66,9404.34,5,4.1
+2023-03-01,P1004,Yoga Mat,Fitness,25.0,25.0,100,2500.0,0,4.3
+2023-03-01,P1005,Resistance Bands,Fitness,19.99,16.99,74,1257.26,15,4.3
+2023-03-01,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,42,490.98,10,4.9
+2023-03-01,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,127,3999.23,10,4.5
+2023-03-01,P1008,Notebook Set,Office & Stationery,10.99,10.44,134,1398.96,5,3.9
+2023-03-01,P1009,Backpack,Fashion & Accessories,49.99,42.49,77,3271.73,15,3.9
+2023-03-01,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,87,7046.13,10,4.8
+2023-03-01,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,66,1261.92,15,4.9
+2023-03-01,P1012,Programming Book,Books & Learning,39.95,33.96,173,5875.08,15,5.0
+2023-03-02,P1001,Wireless Headphones,Electronics,59.99,56.99,172,9802.28,5,4.1
+2023-03-02,P1002,Bluetooth Speaker,Electronics,45.99,43.69,95,4150.55,5,4.0
+2023-03-02,P1003,Smartwatch,Electronics,149.99,127.49,50,6374.5,15,4.8
+2023-03-02,P1004,Yoga Mat,Fitness,25.0,23.75,53,1258.75,5,3.6
+2023-03-02,P1005,Resistance Bands,Fitness,19.99,19.99,126,2518.74,0,4.8
+2023-03-02,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,78,962.52,5,4.2
+2023-03-02,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,115,3621.35,10,4.9
+2023-03-02,P1008,Notebook Set,Office & Stationery,10.99,10.44,33,344.52,5,4.9
+2023-03-02,P1009,Backpack,Fashion & Accessories,49.99,42.49,60,2549.4,15,4.9
+2023-03-02,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,82,6272.18,15,4.9
+2023-03-02,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,171,3461.04,10,4.7
+2023-03-02,P1012,Programming Book,Books & Learning,39.95,33.96,127,4312.92,15,4.3
+2023-03-03,P1001,Wireless Headphones,Electronics,59.99,53.99,121,6532.79,10,3.9
+2023-03-03,P1002,Bluetooth Speaker,Electronics,45.99,39.09,161,6293.49,15,4.2
+2023-03-03,P1003,Smartwatch,Electronics,149.99,134.99,150,20248.5,10,4.9
+2023-03-03,P1004,Yoga Mat,Fitness,25.0,22.5,124,2790.0,10,4.1
+2023-03-03,P1005,Resistance Bands,Fitness,19.99,18.99,174,3304.26,5,4.6
+2023-03-03,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,34,397.46,10,4.3
+2023-03-03,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,179,5323.46,15,3.9
+2023-03-03,P1008,Notebook Set,Office & Stationery,10.99,9.89,80,791.2,10,3.8
+2023-03-03,P1009,Backpack,Fashion & Accessories,49.99,47.49,175,8310.75,5,4.2
+2023-03-03,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,116,9394.84,10,4.6
+2023-03-03,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,155,2963.6,15,4.2
+2023-03-03,P1012,Programming Book,Books & Learning,39.95,37.95,120,4554.0,5,3.7
+2023-03-04,P1001,Wireless Headphones,Electronics,59.99,50.99,169,8617.31,15,3.8
+2023-03-04,P1002,Bluetooth Speaker,Electronics,45.99,45.99,168,7726.32,0,4.3
+2023-03-04,P1003,Smartwatch,Electronics,149.99,149.99,49,7349.51,0,4.6
+2023-03-04,P1004,Yoga Mat,Fitness,25.0,23.75,135,3206.25,5,4.8
+2023-03-04,P1005,Resistance Bands,Fitness,19.99,19.99,89,1779.11,0,4.6
+2023-03-04,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,32,394.88,5,4.3
+2023-03-04,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,125,4373.75,0,4.4
+2023-03-04,P1008,Notebook Set,Office & Stationery,10.99,9.34,153,1429.02,15,3.5
+2023-03-04,P1009,Backpack,Fashion & Accessories,49.99,42.49,166,7053.34,15,3.5
+2023-03-04,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,165,13363.35,10,4.3
+2023-03-04,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,103,2316.47,0,4.3
+2023-03-04,P1012,Programming Book,Books & Learning,39.95,37.95,140,5313.0,5,3.7
+2023-03-05,P1001,Wireless Headphones,Electronics,59.99,56.99,54,3077.46,5,3.9
+2023-03-05,P1002,Bluetooth Speaker,Electronics,45.99,41.39,164,6787.96,10,4.7
+2023-03-05,P1003,Smartwatch,Electronics,149.99,127.49,98,12494.02,15,3.6
+2023-03-05,P1004,Yoga Mat,Fitness,25.0,21.25,133,2826.25,15,4.3
+2023-03-05,P1005,Resistance Bands,Fitness,19.99,17.99,87,1565.13,10,4.5
+2023-03-05,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,50,649.5,0,3.6
+2023-03-05,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,127,3776.98,15,4.3
+2023-03-05,P1008,Notebook Set,Office & Stationery,10.99,10.99,44,483.56,0,4.6
+2023-03-05,P1009,Backpack,Fashion & Accessories,49.99,42.49,51,2166.99,15,4.8
+2023-03-05,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,114,10258.86,0,4.8
+2023-03-05,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,40,854.8,5,3.8
+2023-03-05,P1012,Programming Book,Books & Learning,39.95,33.96,175,5943.0,15,3.9
+2023-03-06,P1001,Wireless Headphones,Electronics,59.99,53.99,49,2645.51,10,4.8
+2023-03-06,P1002,Bluetooth Speaker,Electronics,45.99,45.99,174,8002.26,0,3.8
+2023-03-06,P1003,Smartwatch,Electronics,149.99,149.99,110,16498.9,0,4.9
+2023-03-06,P1004,Yoga Mat,Fitness,25.0,23.75,180,4275.0,5,4.6
+2023-03-06,P1005,Resistance Bands,Fitness,19.99,19.99,131,2618.69,0,3.9
+2023-03-06,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,174,2147.16,5,4.4
+2023-03-06,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,129,4062.21,10,4.1
+2023-03-06,P1008,Notebook Set,Office & Stationery,10.99,10.99,65,714.35,0,4.3
+2023-03-06,P1009,Backpack,Fashion & Accessories,49.99,49.99,118,5898.82,0,3.6
+2023-03-06,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,89,8009.11,0,4.0
+2023-03-06,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,131,2651.44,10,3.5
+2023-03-06,P1012,Programming Book,Books & Learning,39.95,33.96,99,3362.04,15,4.2
+2023-03-07,P1001,Wireless Headphones,Electronics,59.99,50.99,121,6169.79,15,4.1
+2023-03-07,P1002,Bluetooth Speaker,Electronics,45.99,39.09,179,6997.11,15,3.6
+2023-03-07,P1003,Smartwatch,Electronics,149.99,142.49,105,14961.45,5,4.6
+2023-03-07,P1004,Yoga Mat,Fitness,25.0,22.5,51,1147.5,10,3.7
+2023-03-07,P1005,Resistance Bands,Fitness,19.99,16.99,69,1172.31,15,4.0
+2023-03-07,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,57,740.43,0,3.5
+2023-03-07,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,108,3211.92,15,4.0
+2023-03-07,P1008,Notebook Set,Office & Stationery,10.99,10.99,99,1088.01,0,3.7
+2023-03-07,P1009,Backpack,Fashion & Accessories,49.99,42.49,77,3271.73,15,4.2
+2023-03-07,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,172,13156.28,15,3.7
+2023-03-07,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,52,1052.48,10,4.3
+2023-03-07,P1012,Programming Book,Books & Learning,39.95,33.96,113,3837.48,15,3.5
+2023-03-08,P1001,Wireless Headphones,Electronics,59.99,50.99,135,6883.65,15,4.7
+2023-03-08,P1002,Bluetooth Speaker,Electronics,45.99,43.69,173,7558.37,5,4.4
+2023-03-08,P1003,Smartwatch,Electronics,149.99,127.49,73,9306.77,15,3.8
+2023-03-08,P1004,Yoga Mat,Fitness,25.0,22.5,98,2205.0,10,3.9
+2023-03-08,P1005,Resistance Bands,Fitness,19.99,19.99,67,1339.33,0,3.8
+2023-03-08,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,100,1104.0,15,3.9
+2023-03-08,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,49,1543.01,10,3.9
+2023-03-08,P1008,Notebook Set,Office & Stationery,10.99,9.34,93,868.62,15,4.4
+2023-03-08,P1009,Backpack,Fashion & Accessories,49.99,42.49,80,3399.2,15,3.7
+2023-03-08,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,107,9628.93,0,4.9
+2023-03-08,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,115,2198.8,15,4.7
+2023-03-08,P1012,Programming Book,Books & Learning,39.95,33.96,114,3871.44,15,4.0
+2023-03-09,P1001,Wireless Headphones,Electronics,59.99,53.99,64,3455.36,10,4.0
+2023-03-09,P1002,Bluetooth Speaker,Electronics,45.99,39.09,81,3166.29,15,4.0
+2023-03-09,P1003,Smartwatch,Electronics,149.99,134.99,131,17683.69,10,3.9
+2023-03-09,P1004,Yoga Mat,Fitness,25.0,23.75,155,3681.25,5,4.0
+2023-03-09,P1005,Resistance Bands,Fitness,19.99,16.99,101,1715.99,15,4.0
+2023-03-09,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,174,2147.16,5,4.4
+2023-03-09,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,169,5617.56,5,4.5
+2023-03-09,P1008,Notebook Set,Office & Stationery,10.99,10.99,170,1868.3,0,4.9
+2023-03-09,P1009,Backpack,Fashion & Accessories,49.99,47.49,148,7028.52,5,4.2
+2023-03-09,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,104,9358.96,0,4.7
+2023-03-09,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,134,2562.08,15,3.7
+2023-03-09,P1012,Programming Book,Books & Learning,39.95,37.95,107,4060.65,5,3.9
+2023-03-10,P1001,Wireless Headphones,Electronics,59.99,50.99,69,3518.31,15,4.7
+2023-03-10,P1002,Bluetooth Speaker,Electronics,45.99,39.09,48,1876.32,15,5.0
+2023-03-10,P1003,Smartwatch,Electronics,149.99,127.49,152,19378.48,15,4.3
+2023-03-10,P1004,Yoga Mat,Fitness,25.0,25.0,137,3425.0,0,4.7
+2023-03-10,P1005,Resistance Bands,Fitness,19.99,19.99,122,2438.78,0,3.7
+2023-03-10,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,93,1087.17,10,3.7
+2023-03-10,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,41,1219.34,15,5.0
+2023-03-10,P1008,Notebook Set,Office & Stationery,10.99,9.34,114,1064.76,15,3.7
+2023-03-10,P1009,Backpack,Fashion & Accessories,49.99,44.99,55,2474.45,10,3.8
+2023-03-10,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,162,13849.38,5,4.2
+2023-03-10,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,130,2485.6,15,4.7
+2023-03-10,P1012,Programming Book,Books & Learning,39.95,37.95,180,6831.0,5,4.0
+2023-03-11,P1001,Wireless Headphones,Electronics,59.99,50.99,36,1835.64,15,3.7
+2023-03-11,P1002,Bluetooth Speaker,Electronics,45.99,45.99,136,6254.64,0,3.7
+2023-03-11,P1003,Smartwatch,Electronics,149.99,134.99,66,8909.34,10,4.0
+2023-03-11,P1004,Yoga Mat,Fitness,25.0,23.75,146,3467.5,5,4.3
+2023-03-11,P1005,Resistance Bands,Fitness,19.99,16.99,119,2021.81,15,3.6
+2023-03-11,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,145,1695.05,10,3.6
+2023-03-11,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,41,1434.59,0,3.5
+2023-03-11,P1008,Notebook Set,Office & Stationery,10.99,10.99,117,1285.83,0,4.5
+2023-03-11,P1009,Backpack,Fashion & Accessories,49.99,47.49,72,3419.28,5,4.3
+2023-03-11,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,171,14618.79,5,4.0
+2023-03-11,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,139,2657.68,15,3.8
+2023-03-11,P1012,Programming Book,Books & Learning,39.95,37.95,133,5047.35,5,3.8
+2023-03-12,P1001,Wireless Headphones,Electronics,59.99,50.99,140,7138.6,15,3.5
+2023-03-12,P1002,Bluetooth Speaker,Electronics,45.99,39.09,80,3127.2,15,4.4
+2023-03-12,P1003,Smartwatch,Electronics,149.99,149.99,129,19348.71,0,4.6
+2023-03-12,P1004,Yoga Mat,Fitness,25.0,22.5,82,1845.0,10,4.6
+2023-03-12,P1005,Resistance Bands,Fitness,19.99,19.99,46,919.54,0,4.7
+2023-03-12,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,167,2060.78,5,4.0
+2023-03-12,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,80,2379.2,15,3.7
+2023-03-12,P1008,Notebook Set,Office & Stationery,10.99,9.89,155,1532.95,10,4.4
+2023-03-12,P1009,Backpack,Fashion & Accessories,49.99,49.99,130,6498.7,0,4.0
+2023-03-12,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,147,12567.03,5,4.7
+2023-03-12,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,106,2383.94,0,4.5
+2023-03-12,P1012,Programming Book,Books & Learning,39.95,39.95,110,4394.5,0,3.9
+2023-03-13,P1001,Wireless Headphones,Electronics,59.99,56.99,59,3362.41,5,4.1
+2023-03-13,P1002,Bluetooth Speaker,Electronics,45.99,39.09,66,2579.94,15,4.1
+2023-03-13,P1003,Smartwatch,Electronics,149.99,127.49,65,8286.85,15,4.1
+2023-03-13,P1004,Yoga Mat,Fitness,25.0,23.75,154,3657.5,5,4.3
+2023-03-13,P1005,Resistance Bands,Fitness,19.99,17.99,155,2788.45,10,3.7
+2023-03-13,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,110,1214.4,15,4.4
+2023-03-13,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,121,4233.79,0,4.2
+2023-03-13,P1008,Notebook Set,Office & Stationery,10.99,9.34,79,737.86,15,4.9
+2023-03-13,P1009,Backpack,Fashion & Accessories,49.99,42.49,159,6755.91,15,4.1
+2023-03-13,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,155,11855.95,15,4.6
+2023-03-13,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,143,2734.16,15,3.8
+2023-03-13,P1012,Programming Book,Books & Learning,39.95,39.95,174,6951.3,0,4.7
+2023-03-14,P1001,Wireless Headphones,Electronics,59.99,53.99,86,4643.14,10,3.5
+2023-03-14,P1002,Bluetooth Speaker,Electronics,45.99,41.39,87,3600.93,10,3.8
+2023-03-14,P1003,Smartwatch,Electronics,149.99,127.49,147,18741.03,15,4.3
+2023-03-14,P1004,Yoga Mat,Fitness,25.0,25.0,58,1450.0,0,3.9
+2023-03-14,P1005,Resistance Bands,Fitness,19.99,17.99,169,3040.31,10,4.3
+2023-03-14,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,40,441.6,15,4.3
+2023-03-14,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,138,4828.62,0,4.6
+2023-03-14,P1008,Notebook Set,Office & Stationery,10.99,9.89,93,919.77,10,4.8
+2023-03-14,P1009,Backpack,Fashion & Accessories,49.99,42.49,38,1614.62,15,3.9
+2023-03-14,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,52,3977.48,15,4.8
+2023-03-14,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,60,1282.2,5,3.8
+2023-03-14,P1012,Programming Book,Books & Learning,39.95,35.96,180,6472.8,10,4.8
+2023-03-15,P1001,Wireless Headphones,Electronics,59.99,56.99,139,7921.61,5,4.4
+2023-03-15,P1002,Bluetooth Speaker,Electronics,45.99,43.69,82,3582.58,5,4.7
+2023-03-15,P1003,Smartwatch,Electronics,149.99,134.99,175,23623.25,10,4.3
+2023-03-15,P1004,Yoga Mat,Fitness,25.0,23.75,167,3966.25,5,4.0
+2023-03-15,P1005,Resistance Bands,Fitness,19.99,17.99,104,1870.96,10,4.4
+2023-03-15,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,161,2091.39,0,3.7
+2023-03-15,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,135,4723.65,0,5.0
+2023-03-15,P1008,Notebook Set,Office & Stationery,10.99,10.44,62,647.28,5,3.9
+2023-03-15,P1009,Backpack,Fashion & Accessories,49.99,47.49,112,5318.88,5,4.6
+2023-03-15,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,130,9943.7,15,3.7
+2023-03-15,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,98,1873.76,15,4.1
+2023-03-15,P1012,Programming Book,Books & Learning,39.95,39.95,49,1957.55,0,4.1
+2023-03-16,P1001,Wireless Headphones,Electronics,59.99,53.99,101,5452.99,10,4.2
+2023-03-16,P1002,Bluetooth Speaker,Electronics,45.99,41.39,154,6374.06,10,4.4
+2023-03-16,P1003,Smartwatch,Electronics,149.99,127.49,53,6756.97,15,4.5
+2023-03-16,P1004,Yoga Mat,Fitness,25.0,25.0,121,3025.0,0,4.7
+2023-03-16,P1005,Resistance Bands,Fitness,19.99,18.99,131,2487.69,5,5.0
+2023-03-16,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,84,927.36,15,3.9
+2023-03-16,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,102,3211.98,10,4.3
+2023-03-16,P1008,Notebook Set,Office & Stationery,10.99,9.34,63,588.42,15,4.7
+2023-03-16,P1009,Backpack,Fashion & Accessories,49.99,49.99,42,2099.58,0,3.6
+2023-03-16,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,147,13228.53,0,3.7
+2023-03-16,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,70,1338.4,15,4.2
+2023-03-16,P1012,Programming Book,Books & Learning,39.95,37.95,139,5275.05,5,5.0
+2023-03-17,P1001,Wireless Headphones,Electronics,59.99,53.99,63,3401.37,10,3.7
+2023-03-17,P1002,Bluetooth Speaker,Electronics,45.99,45.99,100,4599.0,0,4.5
+2023-03-17,P1003,Smartwatch,Electronics,149.99,149.99,94,14099.06,0,4.1
+2023-03-17,P1004,Yoga Mat,Fitness,25.0,25.0,72,1800.0,0,4.1
+2023-03-17,P1005,Resistance Bands,Fitness,19.99,18.99,108,2050.92,5,4.1
+2023-03-17,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,53,688.47,0,3.5
+2023-03-17,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,152,5318.48,0,3.7
+2023-03-17,P1008,Notebook Set,Office & Stationery,10.99,9.34,87,812.58,15,3.5
+2023-03-17,P1009,Backpack,Fashion & Accessories,49.99,49.99,117,5848.83,0,5.0
+2023-03-17,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,138,11797.62,5,4.2
+2023-03-17,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,88,1682.56,15,3.6
+2023-03-17,P1012,Programming Book,Books & Learning,39.95,39.95,56,2237.2,0,4.0
+2023-03-18,P1001,Wireless Headphones,Electronics,59.99,56.99,106,6040.94,5,4.1
+2023-03-18,P1002,Bluetooth Speaker,Electronics,45.99,43.69,64,2796.16,5,3.6
+2023-03-18,P1003,Smartwatch,Electronics,149.99,149.99,174,26098.26,0,4.4
+2023-03-18,P1004,Yoga Mat,Fitness,25.0,21.25,72,1530.0,15,4.0
+2023-03-18,P1005,Resistance Bands,Fitness,19.99,18.99,84,1595.16,5,4.9
+2023-03-18,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,143,1764.62,5,3.6
+2023-03-18,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,55,1828.2,5,4.6
+2023-03-18,P1008,Notebook Set,Office & Stationery,10.99,9.34,180,1681.2,15,4.0
+2023-03-18,P1009,Backpack,Fashion & Accessories,49.99,44.99,139,6253.61,10,4.7
+2023-03-18,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,93,7532.07,10,4.5
+2023-03-18,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,93,1882.32,10,4.7
+2023-03-18,P1012,Programming Book,Books & Learning,39.95,35.96,36,1294.56,10,3.8
+2023-03-19,P1001,Wireless Headphones,Electronics,59.99,56.99,160,9118.4,5,4.6
+2023-03-19,P1002,Bluetooth Speaker,Electronics,45.99,45.99,105,4828.95,0,4.7
+2023-03-19,P1003,Smartwatch,Electronics,149.99,127.49,91,11601.59,15,4.1
+2023-03-19,P1004,Yoga Mat,Fitness,25.0,21.25,91,1933.75,15,4.5
+2023-03-19,P1005,Resistance Bands,Fitness,19.99,19.99,48,959.52,0,5.0
+2023-03-19,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,111,1369.74,5,4.1
+2023-03-19,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,175,5204.5,15,4.0
+2023-03-19,P1008,Notebook Set,Office & Stationery,10.99,9.34,74,691.16,15,4.9
+2023-03-19,P1009,Backpack,Fashion & Accessories,49.99,49.99,48,2399.52,0,4.4
+2023-03-19,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,33,2672.67,10,3.8
+2023-03-19,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,45,860.4,15,4.3
+2023-03-19,P1012,Programming Book,Books & Learning,39.95,33.96,158,5365.68,15,4.1
+2023-03-20,P1001,Wireless Headphones,Electronics,59.99,59.99,132,7918.68,0,4.5
+2023-03-20,P1002,Bluetooth Speaker,Electronics,45.99,43.69,167,7296.23,5,3.9
+2023-03-20,P1003,Smartwatch,Electronics,149.99,149.99,109,16348.91,0,4.3
+2023-03-20,P1004,Yoga Mat,Fitness,25.0,23.75,82,1947.5,5,4.3
+2023-03-20,P1005,Resistance Bands,Fitness,19.99,19.99,130,2598.7,0,4.0
+2023-03-20,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,141,1739.94,5,3.6
+2023-03-20,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,52,1546.48,15,3.7
+2023-03-20,P1008,Notebook Set,Office & Stationery,10.99,9.89,44,435.16,10,4.5
+2023-03-20,P1009,Backpack,Fashion & Accessories,49.99,49.99,74,3699.26,0,3.5
+2023-03-20,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,65,5849.35,0,3.7
+2023-03-20,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,118,2388.32,10,3.8
+2023-03-20,P1012,Programming Book,Books & Learning,39.95,35.96,62,2229.52,10,4.6
+2023-03-21,P1001,Wireless Headphones,Electronics,59.99,59.99,60,3599.4,0,4.0
+2023-03-21,P1002,Bluetooth Speaker,Electronics,45.99,41.39,139,5753.21,10,4.3
+2023-03-21,P1003,Smartwatch,Electronics,149.99,149.99,97,14549.03,0,4.2
+2023-03-21,P1004,Yoga Mat,Fitness,25.0,22.5,160,3600.0,10,3.6
+2023-03-21,P1005,Resistance Bands,Fitness,19.99,18.99,175,3323.25,5,4.1
+2023-03-21,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,95,1234.05,0,4.8
+2023-03-21,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,59,1961.16,5,4.6
+2023-03-21,P1008,Notebook Set,Office & Stationery,10.99,10.99,30,329.7,0,4.8
+2023-03-21,P1009,Backpack,Fashion & Accessories,49.99,47.49,33,1567.17,5,3.6
+2023-03-21,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,123,9408.27,15,4.9
+2023-03-21,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,75,1686.75,0,4.3
+2023-03-21,P1012,Programming Book,Books & Learning,39.95,37.95,137,5199.15,5,4.0
+2023-03-22,P1001,Wireless Headphones,Electronics,59.99,53.99,136,7342.64,10,3.9
+2023-03-22,P1002,Bluetooth Speaker,Electronics,45.99,41.39,49,2028.11,10,3.7
+2023-03-22,P1003,Smartwatch,Electronics,149.99,142.49,43,6127.07,5,3.8
+2023-03-22,P1004,Yoga Mat,Fitness,25.0,25.0,162,4050.0,0,4.9
+2023-03-22,P1005,Resistance Bands,Fitness,19.99,16.99,47,798.53,15,4.8
+2023-03-22,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,109,1274.21,10,3.6
+2023-03-22,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,146,5108.54,0,4.1
+2023-03-22,P1008,Notebook Set,Office & Stationery,10.99,9.89,104,1028.56,10,4.6
+2023-03-22,P1009,Backpack,Fashion & Accessories,49.99,42.49,92,3909.08,15,4.1
+2023-03-22,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,156,13336.44,5,4.6
+2023-03-22,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,169,3611.53,5,3.7
+2023-03-22,P1012,Programming Book,Books & Learning,39.95,39.95,134,5353.3,0,3.8
+2023-03-23,P1001,Wireless Headphones,Electronics,59.99,59.99,118,7078.82,0,4.9
+2023-03-23,P1002,Bluetooth Speaker,Electronics,45.99,39.09,30,1172.7,15,4.8
+2023-03-23,P1003,Smartwatch,Electronics,149.99,149.99,108,16198.92,0,3.8
+2023-03-23,P1004,Yoga Mat,Fitness,25.0,21.25,90,1912.5,15,4.2
+2023-03-23,P1005,Resistance Bands,Fitness,19.99,18.99,45,854.55,5,4.6
+2023-03-23,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,53,688.47,0,4.9
+2023-03-23,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,163,4847.62,15,4.6
+2023-03-23,P1008,Notebook Set,Office & Stationery,10.99,9.34,125,1167.5,15,5.0
+2023-03-23,P1009,Backpack,Fashion & Accessories,49.99,49.99,51,2549.49,0,4.3
+2023-03-23,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,130,11698.7,0,4.4
+2023-03-23,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,45,860.4,15,4.5
+2023-03-23,P1012,Programming Book,Books & Learning,39.95,37.95,63,2390.85,5,3.9
+2023-03-24,P1001,Wireless Headphones,Electronics,59.99,50.99,110,5608.9,15,4.6
+2023-03-24,P1002,Bluetooth Speaker,Electronics,45.99,41.39,113,4677.07,10,4.2
+2023-03-24,P1003,Smartwatch,Electronics,149.99,149.99,89,13349.11,0,4.9
+2023-03-24,P1004,Yoga Mat,Fitness,25.0,25.0,64,1600.0,0,3.7
+2023-03-24,P1005,Resistance Bands,Fitness,19.99,16.99,72,1223.28,15,4.2
+2023-03-24,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,134,1740.66,0,4.3
+2023-03-24,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,83,2468.42,15,4.0
+2023-03-24,P1008,Notebook Set,Office & Stationery,10.99,10.99,97,1066.03,0,3.6
+2023-03-24,P1009,Backpack,Fashion & Accessories,49.99,49.99,107,5348.93,0,3.8
+2023-03-24,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,113,9660.37,5,3.6
+2023-03-24,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,93,1882.32,10,4.1
+2023-03-24,P1012,Programming Book,Books & Learning,39.95,35.96,42,1510.32,10,3.9
+2023-03-25,P1001,Wireless Headphones,Electronics,59.99,59.99,74,4439.26,0,4.9
+2023-03-25,P1002,Bluetooth Speaker,Electronics,45.99,43.69,145,6335.05,5,3.6
+2023-03-25,P1003,Smartwatch,Electronics,149.99,142.49,56,7979.44,5,3.7
+2023-03-25,P1004,Yoga Mat,Fitness,25.0,23.75,45,1068.75,5,3.7
+2023-03-25,P1005,Resistance Bands,Fitness,19.99,17.99,132,2374.68,10,4.5
+2023-03-25,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,51,596.19,10,4.9
+2023-03-25,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,49,1714.51,0,5.0
+2023-03-25,P1008,Notebook Set,Office & Stationery,10.99,9.34,80,747.2,15,4.7
+2023-03-25,P1009,Backpack,Fashion & Accessories,49.99,44.99,53,2384.47,10,3.7
+2023-03-25,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,148,13318.52,0,3.8
+2023-03-25,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,176,3365.12,15,4.7
+2023-03-25,P1012,Programming Book,Books & Learning,39.95,33.96,131,4448.76,15,3.5
+2023-03-26,P1001,Wireless Headphones,Electronics,59.99,56.99,139,7921.61,5,4.0
+2023-03-26,P1002,Bluetooth Speaker,Electronics,45.99,41.39,77,3187.03,10,3.9
+2023-03-26,P1003,Smartwatch,Electronics,149.99,149.99,68,10199.32,0,4.4
+2023-03-26,P1004,Yoga Mat,Fitness,25.0,22.5,92,2070.0,10,4.2
+2023-03-26,P1005,Resistance Bands,Fitness,19.99,16.99,170,2888.3,15,3.6
+2023-03-26,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,101,1115.04,15,3.7
+2023-03-26,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,81,2692.44,5,4.4
+2023-03-26,P1008,Notebook Set,Office & Stationery,10.99,10.99,169,1857.31,0,5.0
+2023-03-26,P1009,Backpack,Fashion & Accessories,49.99,42.49,121,5141.29,15,4.3
+2023-03-26,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,154,12472.46,10,4.9
+2023-03-26,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,158,3197.92,10,4.1
+2023-03-26,P1012,Programming Book,Books & Learning,39.95,39.95,76,3036.2,0,4.0
+2023-03-27,P1001,Wireless Headphones,Electronics,59.99,59.99,86,5159.14,0,4.8
+2023-03-27,P1002,Bluetooth Speaker,Electronics,45.99,45.99,101,4644.99,0,4.7
+2023-03-27,P1003,Smartwatch,Electronics,149.99,134.99,150,20248.5,10,4.7
+2023-03-27,P1004,Yoga Mat,Fitness,25.0,23.75,89,2113.75,5,3.7
+2023-03-27,P1005,Resistance Bands,Fitness,19.99,17.99,91,1637.09,10,4.3
+2023-03-27,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,44,542.96,5,4.4
+2023-03-27,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,129,4062.21,10,4.9
+2023-03-27,P1008,Notebook Set,Office & Stationery,10.99,10.44,74,772.56,5,3.9
+2023-03-27,P1009,Backpack,Fashion & Accessories,49.99,44.99,111,4993.89,10,4.9
+2023-03-27,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,37,2996.63,10,4.9
+2023-03-27,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,174,3718.38,5,4.3
+2023-03-27,P1012,Programming Book,Books & Learning,39.95,33.96,78,2648.88,15,4.3
+2023-03-28,P1001,Wireless Headphones,Electronics,59.99,50.99,74,3773.26,15,3.6
+2023-03-28,P1002,Bluetooth Speaker,Electronics,45.99,43.69,44,1922.36,5,4.4
+2023-03-28,P1003,Smartwatch,Electronics,149.99,127.49,35,4462.15,15,3.5
+2023-03-28,P1004,Yoga Mat,Fitness,25.0,23.75,81,1923.75,5,4.0
+2023-03-28,P1005,Resistance Bands,Fitness,19.99,17.99,75,1349.25,10,3.6
+2023-03-28,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,67,826.78,5,4.7
+2023-03-28,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,164,5164.36,10,4.9
+2023-03-28,P1008,Notebook Set,Office & Stationery,10.99,9.34,125,1167.5,15,4.4
+2023-03-28,P1009,Backpack,Fashion & Accessories,49.99,44.99,116,5218.84,10,4.0
+2023-03-28,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,70,5354.3,15,4.7
+2023-03-28,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,154,3116.96,10,3.8
+2023-03-28,P1012,Programming Book,Books & Learning,39.95,35.96,173,6221.08,10,3.8
+2023-03-29,P1001,Wireless Headphones,Electronics,59.99,56.99,180,10258.2,5,4.1
+2023-03-29,P1002,Bluetooth Speaker,Electronics,45.99,43.69,105,4587.45,5,3.8
+2023-03-29,P1003,Smartwatch,Electronics,149.99,127.49,30,3824.7,15,4.8
+2023-03-29,P1004,Yoga Mat,Fitness,25.0,25.0,175,4375.0,0,3.8
+2023-03-29,P1005,Resistance Bands,Fitness,19.99,18.99,111,2107.89,5,4.5
+2023-03-29,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,56,618.24,15,3.7
+2023-03-29,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,49,1628.76,5,4.0
+2023-03-29,P1008,Notebook Set,Office & Stationery,10.99,10.44,111,1158.84,5,4.5
+2023-03-29,P1009,Backpack,Fashion & Accessories,49.99,44.99,52,2339.48,10,4.2
+2023-03-29,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,97,8292.53,5,3.9
+2023-03-29,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,47,951.28,10,3.9
+2023-03-29,P1012,Programming Book,Books & Learning,39.95,39.95,57,2277.15,0,3.6
+2023-03-30,P1001,Wireless Headphones,Electronics,59.99,50.99,142,7240.58,15,5.0
+2023-03-30,P1002,Bluetooth Speaker,Electronics,45.99,39.09,135,5277.15,15,4.8
+2023-03-30,P1003,Smartwatch,Electronics,149.99,127.49,119,15171.31,15,3.7
+2023-03-30,P1004,Yoga Mat,Fitness,25.0,23.75,152,3610.0,5,3.7
+2023-03-30,P1005,Resistance Bands,Fitness,19.99,19.99,48,959.52,0,3.9
+2023-03-30,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,111,1297.59,10,4.9
+2023-03-30,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,48,1511.52,10,3.8
+2023-03-30,P1008,Notebook Set,Office & Stationery,10.99,10.44,126,1315.44,5,4.6
+2023-03-30,P1009,Backpack,Fashion & Accessories,49.99,49.99,170,8498.3,0,4.0
+2023-03-30,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,153,13768.47,0,4.1
+2023-03-30,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,72,1376.64,15,3.7
+2023-03-30,P1012,Programming Book,Books & Learning,39.95,35.96,55,1977.8,10,3.8
+2023-03-31,P1001,Wireless Headphones,Electronics,59.99,50.99,78,3977.22,15,4.5
+2023-03-31,P1002,Bluetooth Speaker,Electronics,45.99,41.39,168,6953.52,10,4.5
+2023-03-31,P1003,Smartwatch,Electronics,149.99,142.49,106,15103.94,5,3.6
+2023-03-31,P1004,Yoga Mat,Fitness,25.0,21.25,130,2762.5,15,3.7
+2023-03-31,P1005,Resistance Bands,Fitness,19.99,19.99,122,2438.78,0,4.1
+2023-03-31,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,105,1159.2,15,3.8
+2023-03-31,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,36,1196.64,5,3.8
+2023-03-31,P1008,Notebook Set,Office & Stationery,10.99,10.99,104,1142.96,0,4.2
+2023-03-31,P1009,Backpack,Fashion & Accessories,49.99,44.99,59,2654.41,10,4.7
+2023-03-31,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,150,11473.5,15,4.8
+2023-03-31,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,97,2181.53,0,4.5
+2023-03-31,P1012,Programming Book,Books & Learning,39.95,37.95,129,4895.55,5,4.1
+2023-04-01,P1001,Wireless Headphones,Electronics,59.99,53.99,127,6856.73,10,3.8
+2023-04-01,P1002,Bluetooth Speaker,Electronics,45.99,41.39,41,1696.99,10,4.2
+2023-04-01,P1003,Smartwatch,Electronics,149.99,142.49,97,13821.53,5,4.8
+2023-04-01,P1004,Yoga Mat,Fitness,25.0,25.0,174,4350.0,0,3.7
+2023-04-01,P1005,Resistance Bands,Fitness,19.99,19.99,54,1079.46,0,4.5
+2023-04-01,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,168,1854.72,15,5.0
+2023-04-01,P1007,Non-stick Pan,Home & Kitchen,34.99,33.24,180,5983.2,5,4.3
+2023-04-01,P1008,Notebook Set,Office & Stationery,10.99,9.34,129,1204.86,15,4.9
+2023-04-01,P1009,Backpack,Fashion & Accessories,49.99,47.49,151,7170.99,5,4.2
+2023-04-01,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,50,3824.5,15,4.9
+2023-04-01,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,38,812.06,5,3.7
+2023-04-01,P1012,Programming Book,Books & Learning,39.95,37.95,144,5464.8,5,4.9
+2023-04-02,P1001,Wireless Headphones,Electronics,59.99,56.99,72,4103.28,5,4.7
+2023-04-02,P1002,Bluetooth Speaker,Electronics,45.99,45.99,62,2851.38,0,4.1
+2023-04-02,P1003,Smartwatch,Electronics,149.99,142.49,141,20091.09,5,5.0
+2023-04-02,P1004,Yoga Mat,Fitness,25.0,22.5,67,1507.5,10,4.0
+2023-04-02,P1005,Resistance Bands,Fitness,19.99,19.99,47,939.53,0,4.1
+2023-04-02,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,131,1531.39,10,4.8
+2023-04-02,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,163,4847.62,15,4.9
+2023-04-02,P1008,Notebook Set,Office & Stationery,10.99,9.34,33,308.22,15,3.7
+2023-04-02,P1009,Backpack,Fashion & Accessories,49.99,47.49,68,3229.32,5,4.3
+2023-04-02,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,179,16108.21,0,4.9
+2023-04-02,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,174,3913.26,0,4.7
+2023-04-02,P1012,Programming Book,Books & Learning,39.95,35.96,167,6005.32,10,4.8
+2023-04-03,P1001,Wireless Headphones,Electronics,59.99,50.99,97,4946.03,15,4.5
+2023-04-03,P1002,Bluetooth Speaker,Electronics,45.99,39.09,176,6879.84,15,3.6
+2023-04-03,P1003,Smartwatch,Electronics,149.99,127.49,100,12749.0,15,3.7
+2023-04-03,P1004,Yoga Mat,Fitness,25.0,25.0,132,3300.0,0,4.1
+2023-04-03,P1005,Resistance Bands,Fitness,19.99,18.99,114,2164.86,5,3.6
+2023-04-03,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,151,1765.19,10,4.8
+2023-04-03,P1007,Non-stick Pan,Home & Kitchen,34.99,31.49,35,1102.15,10,4.7
+2023-04-03,P1008,Notebook Set,Office & Stationery,10.99,9.89,107,1058.23,10,3.9
+2023-04-03,P1009,Backpack,Fashion & Accessories,49.99,49.99,155,7748.45,0,5.0
+2023-04-03,P1010,Running Shoes,Fashion & Accessories,89.99,85.49,88,7523.12,5,4.0
+2023-04-03,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,143,2894.32,10,3.9
+2023-04-03,P1012,Programming Book,Books & Learning,39.95,39.95,136,5433.2,0,3.8
+2023-04-04,P1001,Wireless Headphones,Electronics,59.99,50.99,84,4283.16,15,4.6
+2023-04-04,P1002,Bluetooth Speaker,Electronics,45.99,41.39,162,6705.18,10,4.7
+2023-04-04,P1003,Smartwatch,Electronics,149.99,142.49,161,22940.89,5,3.6
+2023-04-04,P1004,Yoga Mat,Fitness,25.0,21.25,159,3378.75,15,3.7
+2023-04-04,P1005,Resistance Bands,Fitness,19.99,19.99,164,3278.36,0,3.8
+2023-04-04,P1006,Ceramic Mug,Home & Kitchen,12.99,12.99,81,1052.19,0,3.9
+2023-04-04,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,146,5108.54,0,4.9
+2023-04-04,P1008,Notebook Set,Office & Stationery,10.99,9.89,80,791.2,10,4.1
+2023-04-04,P1009,Backpack,Fashion & Accessories,49.99,42.49,148,6288.52,15,4.5
+2023-04-04,P1010,Running Shoes,Fashion & Accessories,89.99,89.99,61,5489.39,0,3.9
+2023-04-04,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,155,2963.6,15,3.8
+2023-04-04,P1012,Programming Book,Books & Learning,39.95,35.96,151,5429.96,10,4.0
+2023-04-05,P1001,Wireless Headphones,Electronics,59.99,59.99,96,5759.04,0,3.9
+2023-04-05,P1002,Bluetooth Speaker,Electronics,45.99,45.99,128,5886.72,0,3.7
+2023-04-05,P1003,Smartwatch,Electronics,149.99,142.49,176,25078.24,5,4.8
+2023-04-05,P1004,Yoga Mat,Fitness,25.0,23.75,87,2066.25,5,3.9
+2023-04-05,P1005,Resistance Bands,Fitness,19.99,19.99,134,2678.66,0,4.8
+2023-04-05,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,32,353.28,15,4.9
+2023-04-05,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,74,2589.26,0,3.8
+2023-04-05,P1008,Notebook Set,Office & Stationery,10.99,9.89,108,1068.12,10,4.1
+2023-04-05,P1009,Backpack,Fashion & Accessories,49.99,44.99,126,5668.74,10,4.2
+2023-04-05,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,85,6501.65,15,4.0
+2023-04-05,P1011,Moisturizer,Beauty & Personal Care,22.49,19.12,163,3116.56,15,4.4
+2023-04-05,P1012,Programming Book,Books & Learning,39.95,35.96,31,1114.76,10,4.3
+2023-04-06,P1001,Wireless Headphones,Electronics,59.99,53.99,102,5506.98,10,4.5
+2023-04-06,P1002,Bluetooth Speaker,Electronics,45.99,45.99,153,7036.47,0,4.0
+2023-04-06,P1003,Smartwatch,Electronics,149.99,134.99,100,13499.0,10,4.8
+2023-04-06,P1004,Yoga Mat,Fitness,25.0,22.5,96,2160.0,10,3.8
+2023-04-06,P1005,Resistance Bands,Fitness,19.99,18.99,162,3076.38,5,4.8
+2023-04-06,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,133,1554.77,10,4.5
+2023-04-06,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,36,1070.64,15,5.0
+2023-04-06,P1008,Notebook Set,Office & Stationery,10.99,9.34,96,896.64,15,4.1
+2023-04-06,P1009,Backpack,Fashion & Accessories,49.99,47.49,39,1852.11,5,4.0
+2023-04-06,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,86,6578.14,15,4.9
+2023-04-06,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,121,2449.04,10,4.8
+2023-04-06,P1012,Programming Book,Books & Learning,39.95,37.95,172,6527.4,5,3.9
+2023-04-07,P1001,Wireless Headphones,Electronics,59.99,56.99,150,8548.5,5,4.6
+2023-04-07,P1002,Bluetooth Speaker,Electronics,45.99,43.69,173,7558.37,5,4.9
+2023-04-07,P1003,Smartwatch,Electronics,149.99,149.99,115,17248.85,0,3.8
+2023-04-07,P1004,Yoga Mat,Fitness,25.0,22.5,87,1957.5,10,4.1
+2023-04-07,P1005,Resistance Bands,Fitness,19.99,17.99,114,2050.86,10,3.9
+2023-04-07,P1006,Ceramic Mug,Home & Kitchen,12.99,11.04,105,1159.2,15,4.8
+2023-04-07,P1007,Non-stick Pan,Home & Kitchen,34.99,34.99,150,5248.5,0,4.8
+2023-04-07,P1008,Notebook Set,Office & Stationery,10.99,10.99,179,1967.21,0,4.2
+2023-04-07,P1009,Backpack,Fashion & Accessories,49.99,49.99,79,3949.21,0,4.8
+2023-04-07,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,127,10285.73,10,4.1
+2023-04-07,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,68,1453.16,5,5.0
+2023-04-07,P1012,Programming Book,Books & Learning,39.95,33.96,117,3973.32,15,5.0
+2023-04-08,P1001,Wireless Headphones,Electronics,59.99,56.99,147,8377.53,5,4.0
+2023-04-08,P1002,Bluetooth Speaker,Electronics,45.99,45.99,76,3495.24,0,4.2
+2023-04-08,P1003,Smartwatch,Electronics,149.99,134.99,75,10124.25,10,4.5
+2023-04-08,P1004,Yoga Mat,Fitness,25.0,21.25,31,658.75,15,3.9
+2023-04-08,P1005,Resistance Bands,Fitness,19.99,18.99,73,1386.27,5,4.2
+2023-04-08,P1006,Ceramic Mug,Home & Kitchen,12.99,12.34,52,641.68,5,4.4
+2023-04-08,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,139,4133.86,15,4.1
+2023-04-08,P1008,Notebook Set,Office & Stationery,10.99,9.34,152,1419.68,15,3.5
+2023-04-08,P1009,Backpack,Fashion & Accessories,49.99,47.49,166,7883.34,5,4.6
+2023-04-08,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,33,2672.67,10,4.6
+2023-04-08,P1011,Moisturizer,Beauty & Personal Care,22.49,21.37,165,3526.05,5,3.5
+2023-04-08,P1012,Programming Book,Books & Learning,39.95,37.95,31,1176.45,5,3.8
+2023-04-09,P1001,Wireless Headphones,Electronics,59.99,53.99,118,6370.82,10,3.7
+2023-04-09,P1002,Bluetooth Speaker,Electronics,45.99,41.39,128,5297.92,10,3.8
+2023-04-09,P1003,Smartwatch,Electronics,149.99,134.99,41,5534.59,10,4.9
+2023-04-09,P1004,Yoga Mat,Fitness,25.0,22.5,146,3285.0,10,4.2
+2023-04-09,P1005,Resistance Bands,Fitness,19.99,17.99,64,1151.36,10,5.0
+2023-04-09,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,155,1811.95,10,4.6
+2023-04-09,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,72,2141.28,15,3.5
+2023-04-09,P1008,Notebook Set,Office & Stationery,10.99,10.44,87,908.28,5,3.8
+2023-04-09,P1009,Backpack,Fashion & Accessories,49.99,47.49,35,1662.15,5,3.7
+2023-04-09,P1010,Running Shoes,Fashion & Accessories,89.99,76.49,39,2983.11,15,4.8
+2023-04-09,P1011,Moisturizer,Beauty & Personal Care,22.49,22.49,95,2136.55,0,4.4
+2023-04-09,P1012,Programming Book,Books & Learning,39.95,39.95,42,1677.9,0,4.5
+2023-04-10,P1001,Wireless Headphones,Electronics,59.99,59.99,35,2099.65,0,4.5
+2023-04-10,P1002,Bluetooth Speaker,Electronics,45.99,39.09,136,5316.24,15,4.1
+2023-04-10,P1003,Smartwatch,Electronics,149.99,134.99,170,22948.3,10,4.2
+2023-04-10,P1004,Yoga Mat,Fitness,25.0,23.75,69,1638.75,5,4.5
+2023-04-10,P1005,Resistance Bands,Fitness,19.99,17.99,32,575.68,10,4.1
+2023-04-10,P1006,Ceramic Mug,Home & Kitchen,12.99,11.69,55,642.95,10,4.4
+2023-04-10,P1007,Non-stick Pan,Home & Kitchen,34.99,29.74,65,1933.1,15,4.7
+2023-04-10,P1008,Notebook Set,Office & Stationery,10.99,10.99,56,615.44,0,3.9
+2023-04-10,P1009,Backpack,Fashion & Accessories,49.99,42.49,57,2421.93,15,3.8
+2023-04-10,P1010,Running Shoes,Fashion & Accessories,89.99,80.99,81,6560.19,10,4.7
+2023-04-10,P1011,Moisturizer,Beauty & Personal Care,22.49,20.24,81,1639.44,10,4.6
+2023-04-10,P1012,Programming Book,Books & Learning,39.95,37.95,105,3984.75,5,3.6
